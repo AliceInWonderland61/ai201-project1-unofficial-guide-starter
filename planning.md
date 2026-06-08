@@ -125,15 +125,12 @@ After Embedding and Vector Storage---> Retrieval: ---------------------> Generti
 
 <!-- For each part of the pipeline below, describe:
      - Which AI tool you plan to use (Claude, Copilot, ChatGPT, etc.)
-     I'm planning on using Claude
-
+     
      - What you'll give it as input (which sections of this planning.md, which requirements)
-     I'll be giving the source table from planning.md plus the 10 URLS (need to note that scrapping cannot be done directly; need additional tools)
      - What you expect it to produce
-     It shouls produce ingest.py which will save the raw text as text files
 
      - How you'll verify the output matches your spec
-     I can sort of compare the output words with what the webpages have and ensure that each text file has words 
+     
 
      "I'll use AI to help me code" is not a plan.
      "I'll give Claude my Chunking Strategy section and ask it to implement chunk_text()
@@ -141,22 +138,35 @@ After Embedding and Vector Storage---> Retrieval: ---------------------> Generti
 
 
      Document Ingestion:
-     Which AI:
-     Input: 
-     What it'll Produce: 
-     Verfy Output:
+     Which AI: I'm planning on using Claude
+     Input: I'll be giving the source table from planning.md plus the 10 URLS (need to note that scrapping cannot be done directly; need additional tools)
+     What it'll Produce: It should produce ingest.py which will save the raw text as text files
+     Verfy Output:I can sort of compare the output words with what the webpages have and ensure that each text file has words
 
      Chunking:
-     Which AI:
-     Input: 
-     What it'll Produce: 
-     Verfy Output:
+     Which AI: Claude
+     Input: The chunking section of planning.md (300-400 tokens, 50 overlap, split by comment)
+     What it'll Produce: chunk.py with a chunk_text() function that takes the raw .txt files and returns a list of chunks, each with source metadata
+     Verfy Output: Run it on the r/uofu file and check that the ranked list comment shows up as its own chunk and is not cut in half
 
      Embedding and Vector Storage:
-     Which AI:
-     Input: 
-     What it'll Produce: 
-     Verfy Output:
+     Which AI:Claude
+     Input: The retrieval section of planning.md which specifies all-MiniLM-L6-v2 and ChromaDB
+     What it'll Produce: embed.py that takes all the chunks, turns them into vectors, and stores them in a local ChromaDB collection
+     Verfy Output: Search ChromaDB for something I know is in the data like "CS 4400 brutal" and confirm it returns the right chunk
+
+     Retriveal:
+     Which AI:Claude
+     Input: The retrieval section of planning.md specifying top-k = 6 and ChromaDB
+     What it'll Produce: retrieve.py with a retrieve() function that takes a plain English question, searches ChromaDB, and returns the top 6 most relevant chunks
+     Verfy Output:Run one of the 5 test questions through it and manually check that the returned chunks are actually about CS course difficulty
+
+     Generations:
+     Which AI:Claude
+     Input: The stack section of planning.md specifying Groq API and llama-3.3-70b, plus the 5 test questions
+     What it'll Produce: generate.py that takes a question, gets the top 6 chunks from retrieve.py, sends them to Groq, and returns an answer that cites where the information came from
+     Verfy Output: Run all 5 test questions and check that each answer mentions a specific source and does not say anything that contradicts the actual documents
+     
 
 **Milestone 3 — Ingestion and chunking:**
 

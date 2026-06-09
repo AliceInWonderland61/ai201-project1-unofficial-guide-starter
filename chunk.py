@@ -90,7 +90,7 @@ def chunk_document(filepath, filename):
     # Build chunk dicts with metadata
     chunk_dicts = []
     for i, chunk_text in enumerate(chunks):
-        if chunk_text.strip():
+        if len(chunk_text.strip()) > 80:
             chunk_dicts.append({
                 "id": f"{filename}_{i}",
                 "text": chunk_text.strip(),

@@ -84,20 +84,6 @@
     "filename": "yorku_cs_courses.txt"
   },
   {
-    "id": "yorku_cs_courses.txt_12",
-    "text": "Hardest year for me was 1st. Every other year than that was easy il say.",
-    "source": "r/yorku",
-    "university": "York University",
-    "filename": "yorku_cs_courses.txt"
-  },
-  {
-    "id": "yorku_cs_courses.txt_13",
-    "text": "2/3 is the hardest. 4 is the easiest.",
-    "source": "r/yorku",
-    "university": "York University",
-    "filename": "yorku_cs_courses.txt"
-  },
-  {
     "id": "rpi_cs_courses.txt_0",
     "text": "========================================\n\n[POST] Calling all CS Major to give your opinion of the ranking of CS classes\nHey CS Majors, let's do something fun that could be useful for future and current students, let's make a ranking of the difficulty of CS major required classes, those include:\n\nCS1,\n\nDS,\n\nComp Org,\n\nFOCS,\n\nAlgorithms,\n\nPrinciples of Software,\n\nOperating Systems,\n\nProgramming Languages.\n\n&#x200B;\n\nP.S. if you have only taken a subset of these classes, you can just give the ranking of that subset\n\nP.P.S Let's define hardness as let's say, the class that you would least want to take if you had an already busy semester. So a combination of complexity and time commitment.\n\n&#x200B;\n\nThank you!",
     "source": "r/RPI",
@@ -170,13 +156,6 @@
   {
     "id": "rpi_cs_courses.txt_10",
     "text": ", so the homeworks usually didn't take me more than a couple of hours. I know people who spent a dozen or so hours on the homeworks, but they were people who didn't know Python coming into the course. I finished the final project in a single night.",
-    "source": "r/RPI",
-    "university": "RPI",
-    "filename": "rpi_cs_courses.txt"
-  },
-  {
-    "id": "rpi_cs_courses.txt_11",
-    "text": "1. DS\n2. Algo\n3. Prog Lang\n4. FOCS\n5. Comp Org\n6. Op Sys\n7. P Soft\n8. CS1",
     "source": "r/RPI",
     "university": "RPI",
     "filename": "rpi_cs_courses.txt"
@@ -308,13 +287,6 @@
     "filename": "wgu_difficulty.txt"
   },
   {
-    "id": "wgu_difficulty.txt_3",
-    "text": "Did you use the software 2 project for the capstone?",
-    "source": "r/WGU_CompSci",
-    "university": "WGU",
-    "filename": "wgu_difficulty.txt"
-  },
-  {
     "id": "wgu_difficulty.txt_4",
     "text": "Man wym project management wasn’t bad , that was the worst test I have ever taken😥",
     "source": "r/WGU_CompSci",
@@ -329,13 +301,6 @@
     "filename": "wgu_difficulty.txt"
   },
   {
-    "id": "wgu_difficulty.txt_6",
-    "text": "The only exams I failed once are DM2 and ITIL.",
-    "source": "r/WGU_CompSci",
-    "university": "WGU",
-    "filename": "wgu_difficulty.txt"
-  },
-  {
     "id": "wgu_difficulty.txt_7",
     "text": "This is surprising and not super common. Your hardest class is possibly the one with the lowest passing score in the entire degree.",
     "source": "r/WGU_CompSci",
@@ -345,13 +310,6 @@
   {
     "id": "wgu_difficulty.txt_8",
     "text": "Hello, how long did this all take you to complete and did you transfer any credits in? I'm planning to enroll this next month on 06/01 but need to know if I should use sophia or SDC to expedite the program before I officially enroll. Cost is not an issue as my tuition is covered through Amazon Career Choice so my priority is to save time. These third party websites are roughly $350 per month for 5 courses which is a bit steep but I'm willing to pay this if it truly makes a significant difference on the length of the program. If not then I'm willing to sacrifice a few months of time to save 1k. I would like to know the best course of action for starting out with no credits.",
-    "source": "r/WGU_CompSci",
-    "university": "WGU",
-    "filename": "wgu_difficulty.txt"
-  },
-  {
-    "id": "wgu_difficulty.txt_9",
-    "text": "Hey op, what career path have you taken since finishing the cs degree?",
     "source": "r/WGU_CompSci",
     "university": "WGU",
     "filename": "wgu_difficulty.txt"
@@ -490,20 +448,6 @@
     "filename": "csmajors_hardest_undergrad.txt"
   },
   {
-    "id": "csmajors_hardest_undergrad.txt_1",
-    "text": "Berkeley has CS 162 and EECS 126",
-    "source": "r/csMajors",
-    "university": "Various",
-    "filename": "csmajors_hardest_undergrad.txt"
-  },
-  {
-    "id": "csmajors_hardest_undergrad.txt_2",
-    "text": "The advanced Algo courses of top unis are pretty rough too",
-    "source": "r/csMajors",
-    "university": "Various",
-    "filename": "csmajors_hardest_undergrad.txt"
-  },
-  {
     "id": "csmajors_hardest_undergrad.txt_3",
     "text": "all of cmus courses, they open a lot of their courses but I really wish they opened their os and compilers courses. Both are pretty famous",
     "source": "r/csMajors",
@@ -546,13 +490,6 @@
     "filename": "csmajors_hardest_undergrad.txt"
   },
   {
-    "id": "csmajors_hardest_undergrad.txt_9",
-    "text": "at UW distributed systems is kinda brutal",
-    "source": "r/csMajors",
-    "university": "Various",
-    "filename": "csmajors_hardest_undergrad.txt"
-  },
-  {
     "id": "csmajors_hardest_undergrad.txt_10",
     "text": "Maybe Waterloo's [compilers course](https://student.cs.uwaterloo.ca/~cs444/), but nothing really comes close to the craziness that is Math 55. That's basically covering the entire second half of an honors math degree, and the first year of graduate classes in a single year. Maybe even more. It'd be like doing a systems class that covers all of compilers, databases, operating systems, networks, and then an extended sequence on distributed systems with some formal methods and abstract interpretation.",
     "source": "r/csMajors",
@@ -560,22 +497,8 @@
     "filename": "csmajors_hardest_undergrad.txt"
   },
   {
-    "id": "csmajors_hardest_undergrad.txt_11",
-    "text": "Waterloo Real Time Programming aka Trains ( so i have heard not sure)",
-    "source": "r/csMajors",
-    "university": "Various",
-    "filename": "csmajors_hardest_undergrad.txt"
-  },
-  {
     "id": "csmajors_hardest_undergrad.txt_12",
     "text": "Math 55 is by no means the hardest undergraduate math class in the nation… \nIt has like a 10-15 drop rate...\n\nDo you really think a freshman level class is going to be the hardest class math class in the nation?",
-    "source": "r/csMajors",
-    "university": "Various",
-    "filename": "csmajors_hardest_undergrad.txt"
-  },
-  {
-    "id": "csmajors_hardest_undergrad.txt_13",
-    "text": "idk but compilers is the hardest ugrad course at cornell",
     "source": "r/csMajors",
     "university": "Various",
     "filename": "csmajors_hardest_undergrad.txt"
@@ -637,20 +560,6 @@
     "filename": "csmajors_hardest_undergrad.txt"
   },
   {
-    "id": "csmajors_hardest_undergrad.txt_22",
-    "text": "Harvard's CS161 (Operating Systems) and CS124 (Algorithms) are pretty notorious",
-    "source": "r/csMajors",
-    "university": "Various",
-    "filename": "csmajors_hardest_undergrad.txt"
-  },
-  {
-    "id": "csmajors_hardest_undergrad.txt_23",
-    "text": "Compilers is traditionally the hardest in cornell lore",
-    "source": "r/csMajors",
-    "university": "Various",
-    "filename": "csmajors_hardest_undergrad.txt"
-  },
-  {
     "id": "csmajors_hardest_undergrad.txt_24",
     "text": "umd cs has the same course as cmu it’s also considered one of the hardest courses at the school w an avg gpa of 2.1 or soemthing. Another notable one is algorithms at umd has a ~50% fail rate or something like that",
     "source": "r/csMajors",
@@ -679,13 +588,6 @@
     "filename": "csmajors_hardest_undergrad.txt"
   },
   {
-    "id": "csmajors_hardest_undergrad.txt_28",
-    "text": "Putting forward compilers classes",
-    "source": "r/csMajors",
-    "university": "Various",
-    "filename": "csmajors_hardest_undergrad.txt"
-  },
-  {
     "id": "csmajors_hardest_undergrad.txt_29",
     "text": "Compilers was probably the hardest one at my fancy school. Lots of theory combined with writing a (somewhat simplified) C compiler. Getting code to link and run is very satisfying. Only one student my year managed to get it working and that was by skipping most other classes and having no life.",
     "source": "r/csMajors",
@@ -700,50 +602,8 @@
     "filename": "csmajors_hardest_undergrad.txt"
   },
   {
-    "id": "csmajors_hardest_undergrad.txt_31",
-    "text": "How can this be measured and why does this question matter?",
-    "source": "r/csMajors",
-    "university": "Various",
-    "filename": "csmajors_hardest_undergrad.txt"
-  },
-  {
     "id": "csmajors_hardest_undergrad.txt_32",
     "text": "This post propagates elitism and it’s gross.\n\nMy hardest course was Java because I was panicked. Getting into cs is hard.",
-    "source": "r/csMajors",
-    "university": "Various",
-    "filename": "csmajors_hardest_undergrad.txt"
-  },
-  {
-    "id": "csmajors_hardest_undergrad.txt_33",
-    "text": "I was told PLC at RHIT was one of the hardest",
-    "source": "r/csMajors",
-    "university": "Various",
-    "filename": "csmajors_hardest_undergrad.txt"
-  },
-  {
-    "id": "csmajors_hardest_undergrad.txt_34",
-    "text": "I took op systems and it was nothing like that exam wtf",
-    "source": "r/csMajors",
-    "university": "Various",
-    "filename": "csmajors_hardest_undergrad.txt"
-  },
-  {
-    "id": "csmajors_hardest_undergrad.txt_35",
-    "text": "I read that and was like what is that",
-    "source": "r/csMajors",
-    "university": "Various",
-    "filename": "csmajors_hardest_undergrad.txt"
-  },
-  {
-    "id": "csmajors_hardest_undergrad.txt_36",
-    "text": "seems like a pretty normal OS class",
-    "source": "r/csMajors",
-    "university": "Various",
-    "filename": "csmajors_hardest_undergrad.txt"
-  },
-  {
-    "id": "csmajors_hardest_undergrad.txt_37",
-    "text": "6.5840: Distributed Systems MIT",
     "source": "r/csMajors",
     "university": "Various",
     "filename": "csmajors_hardest_undergrad.txt"
@@ -777,34 +637,6 @@
     "filename": "csmajors_hardest_undergrad.txt"
   },
   {
-    "id": "csmajors_hardest_undergrad.txt_42",
-    "text": "Columbia's Theory of Computation class.",
-    "source": "r/csMajors",
-    "university": "Various",
-    "filename": "csmajors_hardest_undergrad.txt"
-  },
-  {
-    "id": "csmajors_hardest_undergrad.txt_43",
-    "text": "Regardless of any university, I think it would be compilers",
-    "source": "r/csMajors",
-    "university": "Various",
-    "filename": "csmajors_hardest_undergrad.txt"
-  },
-  {
-    "id": "csmajors_hardest_undergrad.txt_44",
-    "text": "Duke CS330 - Design and Analysis of Algorithms",
-    "source": "r/csMajors",
-    "university": "Various",
-    "filename": "csmajors_hardest_undergrad.txt"
-  },
-  {
-    "id": "csmajors_hardest_undergrad.txt_45",
-    "text": "CS 241, CS 374. ECE 391\n\nLegendary classes at UIUC",
-    "source": "r/csMajors",
-    "university": "Various",
-    "filename": "csmajors_hardest_undergrad.txt"
-  },
-  {
     "id": "csmajors_hardest_undergrad.txt_46",
     "text": "Shoutouts to Prof. Babai’s Honors Combo and Honors Graph Theory courses at UChicago. You can scrape a B by doing the bare minimum, or you can sell your soul and work 40+ hours a week to finish the problem sets and attempt challenge problems. \n\nAs a UChicago student, also obligated to challenge Math 55 as “hardest undergrad math course” - Honors Analysis says bet. We hit Baby Rudin, LinAlg, differential forms,  and measure theory.",
     "source": "r/csMajors",
@@ -819,13 +651,6 @@
     "filename": "csmajors_hardest_undergrad.txt"
   },
   {
-    "id": "csmajors_hardest_undergrad.txt_48",
-    "text": "I did 15-410!  It wasn’t so bad.\n\nCIA or KGB?",
-    "source": "r/csMajors",
-    "university": "Various",
-    "filename": "csmajors_hardest_undergrad.txt"
-  },
-  {
     "id": "csmajors_hardest_undergrad.txt_49",
     "text": "UTSA has Operating Systems taught by one professor that uses some of CMU’s questions on exams.",
     "source": "r/csMajors",
@@ -835,20 +660,6 @@
   {
     "id": "csmajors_hardest_undergrad.txt_50",
     "text": "I heard a rumor that Computer SYSTEMS CS3214 by Virginia Tech is one of the toughest in the nation.",
-    "source": "r/csMajors",
-    "university": "Various",
-    "filename": "csmajors_hardest_undergrad.txt"
-  },
-  {
-    "id": "csmajors_hardest_undergrad.txt_51",
-    "text": "6.046 at MIT and several of the other CS courses here can be pretty hell",
-    "source": "r/csMajors",
-    "university": "Various",
-    "filename": "csmajors_hardest_undergrad.txt"
-  },
-  {
-    "id": "csmajors_hardest_undergrad.txt_52",
-    "text": "Bruh as a cmu student, did you make this post to circlejerk cmu... 🤦‍♂️",
     "source": "r/csMajors",
     "university": "Various",
     "filename": "csmajors_hardest_undergrad.txt"
@@ -987,13 +798,6 @@
     "filename": "omscs_difficulty.txt"
   },
   {
-    "id": "omscs_difficulty.txt_15",
-    "text": "Classes with group projects should be in a special category.",
-    "source": "r/OMSCS",
-    "university": "Georgia Tech",
-    "filename": "omscs_difficulty.txt"
-  },
-  {
     "id": "omscs_difficulty.txt_16",
     "text": "Oh great most of the courses I’m interested in are tier 6 and 7\n\nI have a note about CS6400. The material in this class was not difficult. It was made difficult for three reasons:\n\n1. Most of the grade is based on project work, so a lot depends on lucking out with good teammates.\n\n2. It really feels like there are a lot of bad TA’s for this class (definitely some good too, but plenty of bad). We would get feedback on our projects and be docked 15% for a few small errors. The grading scheme did not seem to be lined up properly with what one might consider a demonstration of mastery of the material. Additionally, there were plenty of poorly written test questions that were basically reliant on you correctly guessing what they were getting at. This had been pointed out multiple times and the response from the TA team was basically “sucks.” I’d give the TA’s a 2/5 for this course. I liked the lead instructor and the materials, but it felt so much like the TA’s were going out of their way to inappropriately deflate grades. \n\n3. You’re graded on things that have nothing to do with this course.",
     "source": "r/OMSCS",
@@ -1059,13 +863,6 @@
   {
     "id": "omscs_difficulty.txt_25",
     "text": "Thanks for putting this together, OP!  It's nice to all of these courses listed together for reference.\n\nJust my two cents for the folks reading the comments: ISYE 6501 was waaaaaaay easier than DVA. No way DVA should be considered easier. 6501 was a breeze.",
-    "source": "r/OMSCS",
-    "university": "Georgia Tech",
-    "filename": "omscs_difficulty.txt"
-  },
-  {
-    "id": "omscs_difficulty.txt_26",
-    "text": "Just wanna say thanks this is a great resource!!",
     "source": "r/OMSCS",
     "university": "Georgia Tech",
     "filename": "omscs_difficulty.txt"
@@ -1155,20 +952,6 @@
     "filename": "omscs_difficulty.txt"
   },
   {
-    "id": "omscs_difficulty.txt_39",
-    "text": "Do you have tier for ISYE 6525?",
-    "source": "r/OMSCS",
-    "university": "Georgia Tech",
-    "filename": "omscs_difficulty.txt"
-  },
-  {
-    "id": "omscs_difficulty.txt_40",
-    "text": "I would say 6035 is easier than 6262",
-    "source": "r/OMSCS",
-    "university": "Georgia Tech",
-    "filename": "omscs_difficulty.txt"
-  },
-  {
     "id": "omscs_difficulty.txt_41",
     "text": "Deciding between DVA and BD4H at the moment, and I feel like I generally see people on Reddit say BD4H > DVA although I'm seeing a much higher A rate for DVA. Could the A rate for BD4H be skewed by the grades before it was remodeled?",
     "source": "r/OMSCS",
@@ -1218,13 +1001,6 @@
     "filename": "uml_easiest_hardest.txt"
   },
   {
-    "id": "uml_easiest_hardest.txt_3",
-    "text": "{0, 2 = 3, 5 = 6 = 14 = 15, 12, 1 = 7 = 9, 4}",
-    "source": "r/uml",
-    "university": "UMass Lowell",
-    "filename": "uml_easiest_hardest.txt"
-  },
-  {
     "id": "csmajors_hardest_subject.txt_0",
     "text": "========================================\n\n[POST] In your own opinion, what is the hardest subject in Computer Science?",
     "source": "r/csMajors",
@@ -1239,13 +1015,6 @@
     "filename": "csmajors_hardest_subject.txt"
   },
   {
-    "id": "csmajors_hardest_subject.txt_2",
-    "text": "Touching grass, still figuring out this one",
-    "source": "r/csMajors",
-    "university": "Various",
-    "filename": "csmajors_hardest_subject.txt"
-  },
-  {
     "id": "csmajors_hardest_subject.txt_3",
     "text": "I find you can divide cs students pretty neatly into algorithms and operating systems people.  Algorithms people who love solving leetcode problems all day seem to struggle with OS, meanwhile OS people who like fucking around with the linux kernel seem to struggle with algorithms.",
     "source": "r/csMajors",
@@ -1255,20 +1024,6 @@
   {
     "id": "csmajors_hardest_subject.txt_4",
     "text": "I don't know if this counts as purely computer science, but I have found proofs to be the hardest subject I've dealt with in my CS classes.",
-    "source": "r/csMajors",
-    "university": "Various",
-    "filename": "csmajors_hardest_subject.txt"
-  },
-  {
-    "id": "csmajors_hardest_subject.txt_5",
-    "text": "I thought Computer Organization/architecture was crazy hard.",
-    "source": "r/csMajors",
-    "university": "Various",
-    "filename": "csmajors_hardest_subject.txt"
-  },
-  {
-    "id": "csmajors_hardest_subject.txt_6",
-    "text": "Circuit design from computer organization is probably up there.",
     "source": "r/csMajors",
     "university": "Various",
     "filename": "csmajors_hardest_subject.txt"
@@ -1309,13 +1064,6 @@
     "filename": "csmajors_hardest_subject.txt"
   },
   {
-    "id": "csmajors_hardest_subject.txt_12",
-    "text": "Finite automata and formal languages",
-    "source": "r/csMajors",
-    "university": "Various",
-    "filename": "csmajors_hardest_subject.txt"
-  },
-  {
     "id": "csmajors_hardest_subject.txt_13",
     "text": "I thought ML/DL was pretty hard. It’s not just cs tho, that’s one perspective, the quant is killer with this shit. I didn’t take enough stats 😭",
     "source": "r/csMajors",
@@ -1337,29 +1085,8 @@
     "filename": "csmajors_hardest_subject.txt"
   },
   {
-    "id": "csmajors_hardest_subject.txt_16",
-    "text": "Combinatorics definitely kept me up at times.",
-    "source": "r/csMajors",
-    "university": "Various",
-    "filename": "csmajors_hardest_subject.txt"
-  },
-  {
     "id": "csmajors_hardest_subject.txt_17",
     "text": "this is the best way i can phrase my interests 😭 hopefully someone can find better words to capture what i mean.\n\ncontent that is more “hardware-ish” and requires students to “accept facts” for what they are such as operating systems, computer systems, etc is less enjoyable to me. \n\nhowever, i’ve always enjoyed the more “logic-based mathematical” content, so data structures and algorithms, dynamic programming, theory of computation, etc. are my jam.\n\nthough imo the latter is more difficult to learn compared to the former.",
-    "source": "r/csMajors",
-    "university": "Various",
-    "filename": "csmajors_hardest_subject.txt"
-  },
-  {
-    "id": "csmajors_hardest_subject.txt_18",
-    "text": "Linear algebra or proofs imo  \n\nI hate anything math related tbh",
-    "source": "r/csMajors",
-    "university": "Various",
-    "filename": "csmajors_hardest_subject.txt"
-  },
-  {
-    "id": "csmajors_hardest_subject.txt_19",
-    "text": "Theory of computation,  man that is harder than machine learning",
     "source": "r/csMajors",
     "university": "Various",
     "filename": "csmajors_hardest_subject.txt"
@@ -1393,22 +1120,8 @@
     "filename": "csmajors_hardest_subject.txt"
   },
   {
-    "id": "csmajors_hardest_subject.txt_24",
-    "text": "Formal methods or theory of computation",
-    "source": "r/csMajors",
-    "university": "Various",
-    "filename": "csmajors_hardest_subject.txt"
-  },
-  {
     "id": "csmajors_hardest_subject.txt_25",
     "text": "i hate distributed systems with a passion, and that part of systems where you deal with assembly.",
-    "source": "r/csMajors",
-    "university": "Various",
-    "filename": "csmajors_hardest_subject.txt"
-  },
-  {
-    "id": "csmajors_hardest_subject.txt_26",
-    "text": "Learning high paying tech jobs are in HCOL areas .",
     "source": "r/csMajors",
     "university": "Various",
     "filename": "csmajors_hardest_subject.txt"
@@ -1428,29 +1141,8 @@
     "filename": "csmajors_hardest_subject.txt"
   },
   {
-    "id": "csmajors_hardest_subject.txt_29",
-    "text": "advanced algorithms design and analysis",
-    "source": "r/csMajors",
-    "university": "Various",
-    "filename": "csmajors_hardest_subject.txt"
-  },
-  {
     "id": "csmajors_hardest_subject.txt_30",
     "text": "Cybersecurity bc fuck that shit it made me cry so much. The field is so deep and so not deep at the same time it’s frustrating.",
-    "source": "r/csMajors",
-    "university": "Various",
-    "filename": "csmajors_hardest_subject.txt"
-  },
-  {
-    "id": "csmajors_hardest_subject.txt_31",
-    "text": "Deep learning (neural nets n stuff)",
-    "source": "r/csMajors",
-    "university": "Various",
-    "filename": "csmajors_hardest_subject.txt"
-  },
-  {
-    "id": "csmajors_hardest_subject.txt_32",
-    "text": "At my uni the hardest classes are discrete math, OS, computing theory, AI.",
     "source": "r/csMajors",
     "university": "Various",
     "filename": "csmajors_hardest_subject.txt"
@@ -1477,29 +1169,8 @@
     "filename": "csmajors_hardest_subject.txt"
   },
   {
-    "id": "csmajors_hardest_subject.txt_36",
-    "text": "Algorithms and models of computation",
-    "source": "r/csMajors",
-    "university": "Various",
-    "filename": "csmajors_hardest_subject.txt"
-  },
-  {
     "id": "csmajors_hardest_subject.txt_37",
     "text": "maybe just me but physics and calc 2 were really a struggle for me even tho not specifically compsci they are required for my degree",
-    "source": "r/csMajors",
-    "university": "Various",
-    "filename": "csmajors_hardest_subject.txt"
-  },
-  {
-    "id": "csmajors_hardest_subject.txt_38",
-    "text": "I’m surprised nobody mentioned machine learning.",
-    "source": "r/csMajors",
-    "university": "Various",
-    "filename": "csmajors_hardest_subject.txt"
-  },
-  {
-    "id": "csmajors_hardest_subject.txt_39",
-    "text": "What's the hardest subject and why is it computer architecture",
     "source": "r/csMajors",
     "university": "Various",
     "filename": "csmajors_hardest_subject.txt"
@@ -1519,22 +1190,8 @@
     "filename": "csmajors_hardest_subject.txt"
   },
   {
-    "id": "csmajors_hardest_subject.txt_42",
-    "text": "Idk assembly language almost broke me",
-    "source": "r/csMajors",
-    "university": "Various",
-    "filename": "csmajors_hardest_subject.txt"
-  },
-  {
     "id": "csmajors_hardest_subject.txt_43",
     "text": "I found linear algebra to be hard af. Caught me by surprise when I got my first test back(I failed it). I just wasn’t able to see the patterns I needed to see in order to solve the problems. \n\nI ended up with a B in the class, but not without a ton of work.",
-    "source": "r/csMajors",
-    "university": "Various",
-    "filename": "csmajors_hardest_subject.txt"
-  },
-  {
-    "id": "csmajors_hardest_subject.txt_44",
-    "text": "Applied Probability 😭 (elective for MSCS)",
     "source": "r/csMajors",
     "university": "Various",
     "filename": "csmajors_hardest_subject.txt"
@@ -1556,13 +1213,6 @@
   {
     "id": "csmajors_hardest_subject.txt_47",
     "text": "Computer organisation and architecture is shittiest as of now. Boring af. Don't understand why what....",
-    "source": "r/csMajors",
-    "university": "Various",
-    "filename": "csmajors_hardest_subject.txt"
-  },
-  {
-    "id": "csmajors_hardest_subject.txt_48",
-    "text": "Computational complexity theory",
     "source": "r/csMajors",
     "university": "Various",
     "filename": "csmajors_hardest_subject.txt"
@@ -1591,20 +1241,6 @@
   {
     "id": "csmajors_hardest_subject.txt_52",
     "text": "Linear algebra was a pain but I honestly hated calc 2 and discrete math more.\n\nStill have to do discrete math part 2 next semester, yay.",
-    "source": "r/csMajors",
-    "university": "Various",
-    "filename": "csmajors_hardest_subject.txt"
-  },
-  {
-    "id": "csmajors_hardest_subject.txt_53",
-    "text": "Computer Aided Visualisation Mathematics. I'm just glad I passed(2/5)",
-    "source": "r/csMajors",
-    "university": "Various",
-    "filename": "csmajors_hardest_subject.txt"
-  },
-  {
-    "id": "csmajors_hardest_subject.txt_54",
-    "text": "Computer Organization/Architecture",
     "source": "r/csMajors",
     "university": "Various",
     "filename": "csmajors_hardest_subject.txt"

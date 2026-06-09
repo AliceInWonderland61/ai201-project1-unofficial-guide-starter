@@ -1,12 +1,5 @@
 [
   {
-    "id": "yorku_cs_courses.txt_0",
-    "text": "========================================\n\n[POST] Computer Science Students rank your undergrad years by difficulty\nI'm interested in knowing which years were the hardest in your undergrad and which ones were the easiest. \n\nAlso, what were your top 3 easiest and hardest courses in CS and maybe give a description or reason as to why you found it hard or easy.",
-    "source": "r/yorku",
-    "university": "York University",
-    "filename": "yorku_cs_courses.txt"
-  },
-  {
     "id": "yorku_cs_courses.txt_1",
     "text": "I did my first 2 years in another program (Space Science), but all my credits counted towards Comp Sci (either as degree requirements or electives), so here's my opinion:",
     "source": "r/yorku",
@@ -82,13 +75,6 @@
     "source": "r/yorku",
     "university": "York University",
     "filename": "yorku_cs_courses.txt"
-  },
-  {
-    "id": "rpi_cs_courses.txt_0",
-    "text": "========================================\n\n[POST] Calling all CS Major to give your opinion of the ranking of CS classes\nHey CS Majors, let's do something fun that could be useful for future and current students, let's make a ranking of the difficulty of CS major required classes, those include:\n\nCS1,\n\nDS,\n\nComp Org,\n\nFOCS,\n\nAlgorithms,\n\nPrinciples of Software,\n\nOperating Systems,\n\nProgramming Languages.\n\n&#x200B;\n\nP.S. if you have only taken a subset of these classes, you can just give the ranking of that subset\n\nP.P.S Let's define hardness as let's say, the class that you would least want to take if you had an already busy semester. So a combination of complexity and time commitment.\n\n&#x200B;\n\nThank you!",
-    "source": "r/RPI",
-    "university": "RPI",
-    "filename": "rpi_cs_courses.txt"
   },
   {
     "id": "rpi_cs_courses.txt_1",
@@ -266,13 +252,6 @@
     "filename": "omscentral_reviews.txt"
   },
   {
-    "id": "wgu_difficulty.txt_0",
-    "text": "========================================\n\n[POST] Class Difficulty Ranking\nHello, everyone! I just finished my last class yesterday and wanted to give a ranking of classes from hardest to easiest since I haven't ever seen one. (Edit: This is for the Computer Science Program). I got most of my generals transferred from another school, so those classes are not on the list. This is my opinion, and others' opinions will vary. I also don't remember every detail of every class, so the order isn't perfect.\n\nHardest to easiest:\n\n1. Business of IT Applications (The test was horrible. Edit: This may be the hardest test, but not the hardest class. This class caused me so much stress. That's why it's number 1 for me.)\n2. Software 1 (A big project with a lot of thinking involved)\n3. Software 2 (A big project with a lot of thinking involved)\n4. Operating Systems for Programmers (There was a ton of vocab and I don't do well with vocab)\n5. Discrete Math 2 (Wasn't as bad as people said. I enjoyed it)\n6. Calculus 1 (This wasn't that bad either. I also enjoyed it)\n7. Data Structures and Algorithms 2 (It was confusing to start, but not too bad once you get the hang of it)\n8.",
-    "source": "r/WGU_CompSci",
-    "university": "WGU",
-    "filename": "wgu_difficulty.txt"
-  },
-  {
     "id": "wgu_difficulty.txt_1",
     "text": "eople said. I enjoyed it)\n6. Calculus 1 (This wasn't that bad either. I also enjoyed it)\n7. Data Structures and Algorithms 2 (It was confusing to start, but not too bad once you get the hang of it)\n8. Scripting and Programming Applications (This was also confusing to start, but not too bad once I got my hands on a certain YouTube video. Edit: I just checked and the video was taken down. I THINK it was created by a WGU instructor and they changed their mind about the video because it made the class too easy. This is just a guess. This may be the hardest class now.)\n9. Business of IT Project Management (The test was a beast, but not horrible. Edit: Changed from 14th to 9th)\n10. Intro to AI (This just had a lot of papers to write and was kind of annoying)\n11. Web Development Foundations (A lot of students struggle with this class. It wasn't too bad for me though)\n12. Discrete Math 1 (It was hard for me because I didn't read the book. After I read the book, it was pretty easy)\n13. Computer Architecture (It took a while, but isn't too bad if you just follow along with the webinars)\n14. Data Structures and Algorithms 1\n15. Capstone (It took me a day)\n16. Advanced-Data Management\n17.",
     "source": "r/WGU_CompSci",
@@ -313,13 +292,6 @@
     "source": "r/WGU_CompSci",
     "university": "WGU",
     "filename": "wgu_difficulty.txt"
-  },
-  {
-    "id": "uofu_utah.txt_0",
-    "text": "========================================\n\n[POST] Can anyone help with CS course planning and let me know difficulty of courses?\nI am a student who finished the last semester well and in a full major status finally. I want to make a class plan for graduation, but my goal is to take classes and graduate as soon as possible. I want to take at least 4 cs classes per semester, but I don't know how to balance them because I don't know exactly how difficult they are. Can anyone give me a rough summary of the easy and extremely difficult classes, including cs elective classes or rough plan? I would be really appreciate for your help thank you.",
-    "source": "r/uofu",
-    "university": "University of Utah",
-    "filename": "uofu_utah.txt"
   },
   {
     "id": "uofu_utah.txt_1",
@@ -439,13 +411,6 @@
     "source": "Rate My Professors",
     "university": "UTRGV",
     "filename": "ratemyprofessors.txt"
-  },
-  {
-    "id": "csmajors_hardest_undergrad.txt_0",
-    "text": "========================================\n\n[POST] Hardest individual undergrad CS course in the US?\nThe hardest undergrad math course in the US is well-known to be Math 55 at Harvard. What's the equivalent in CS? I was thinking CMU's 15-410 (Operating Systems) has to be up there as not many other universities ask you to build an entire multithreaded kernel, then turn it into a hypervisor for other students' kernels, all in four or five weeks. (It’s either in pairs or solo.) Are there any more difficult courses I'm missing?\n\nEDIT: a sample CMU 15-410 mid-term for those who are interested: https://www.cs.cmu.edu/~410/public-archive/f22-midterm/examB.pdf",
-    "source": "r/csMajors",
-    "university": "Various",
-    "filename": "csmajors_hardest_undergrad.txt"
   },
   {
     "id": "csmajors_hardest_undergrad.txt_3",
@@ -691,13 +656,6 @@
     "source": "r/csMajors",
     "university": "Various",
     "filename": "csmajors_hardest_undergrad.txt"
-  },
-  {
-    "id": "omscs_difficulty.txt_0",
-    "text": "========================================\n\n[POST] All Courses Ranked by Difficulty 2025: Spring/Fall\nThis is a list which combines the last three years of grades and reviews data to sort all courses by average difficulty.  Only Fall and Spring semester information is considered.\n\n**TL;DR**: I pull information from several sources to sort courses by average \"difficulty\".  There are many different forms of difficulty from the material being difficult to understand, to the course assignments being difficult to get a good/passing grade on or to complete in a timely manner, to the course structure/staff making it difficult to inspire interest in the material.  The work represented here attempts to distill the average student experience in each course into one digestible list.  Unless you happen to be THE perfectly average student, there will be rankings here you disagree with.  If everyone took every course, everyone's difficulty list would look different.  The goal of this list is to be one of the best sortings possible across all students, and provide directional guidance for students planning their course sequences and pairings.",
-    "source": "r/OMSCS",
-    "university": "Georgia Tech",
-    "filename": "omscs_difficulty.txt"
   },
   {
     "id": "omscs_difficulty.txt_1",
@@ -980,13 +938,6 @@
     "filename": "omscs_difficulty.txt"
   },
   {
-    "id": "uml_easiest_hardest.txt_0",
-    "text": "========================================\n\n[POST] CS Required Classes - Easiest to Hardest\nPlease rank the below from easiest to hardest.  \nDifficulty is relative to each person, so I'm expecting different answers.  \nNo need to write the course name, can be just a set e.g. {2,4,6...}  . If classes are equal in difficulty (1=4) then do {2,6,1=4...}\n0.Computing I\n\n1.Computing II  \n2.Computing III\n\n3.Computing IV\n\n4.Assembly Language Programming\n\n5.Discrete Structures I  \n6.Discrete Structures II  \n7.Logic Design  \n8.Oral & Written Comm. for CS\n\n9.Foundations of Comp. Science  \n10.Intro. to Operating Systems  \n11.Analysis of Algorithms  \n12. Probability & Statistics I (MATH.3860)  \n13.Organization of Prog. Lang  \n14.Calculus I  \n15.Calculus II",
-    "source": "r/uml",
-    "university": "UMass Lowell",
-    "filename": "uml_easiest_hardest.txt"
-  },
-  {
     "id": "uml_easiest_hardest.txt_1",
     "text": "The hardest classes are going to be Assembly, Comp 2 (generally this is considered a weed-out class), Calc 2 depending on your math skills, algo, and logic design because of the tough grading. OS, OPL, Foundations, Architecture, and Discrete 2 are challenging, but lots of the concepts are shared across classes so if you pay attention and make connections you'll be fine. \n\nCalc 1, discrete 1, oral, and stats are pretty easy by comparison.\n\nOh and comp 3 and 4 are a breeze if you're a competent programmer in C++.",
     "source": "r/uml",
@@ -999,13 +950,6 @@
     "source": "r/uml",
     "university": "UMass Lowell",
     "filename": "uml_easiest_hardest.txt"
-  },
-  {
-    "id": "csmajors_hardest_subject.txt_0",
-    "text": "========================================\n\n[POST] In your own opinion, what is the hardest subject in Computer Science?",
-    "source": "r/csMajors",
-    "university": "Various",
-    "filename": "csmajors_hardest_subject.txt"
   },
   {
     "id": "csmajors_hardest_subject.txt_1",

@@ -1,0 +1,94 @@
+Computer Networks Reviews: 
+I came into Computer networks with a limited background and experience with networking. I mainly had full stack software engineering experience coming in.
+
+Lectures and modules were for the most part ok but they were in the "read on your own" format which felt more passive. The Kurose textbook and Jim Kurose's youtube channel were way more helpful to understand the concepts.
+
+However, pay attention to the later modules like SDN, CDNs, VoIP. That stuff was interesting and actually used in practice which is helpful for system design concepts
+
+Pros:
+
+Applicable material and beginner friendly
+Projects were focused on you learning for the most part and you had unlimited gradescope submissions, so no artificial difficulty
+Module summary videos were helpful
+TA provided lots of extra credit opportunities to test out new projects (eg: CDN tutorial, Kubernetes Tutorial, Internet Events Paper, etc)
+Cons:
+
+Dr. Konte was absent for the most part from the course
+No module summary videos from the prof for second half of the course, BUT she is transitioning the course to hands on focus, so I'll give credit for that
+Exams were not hard. You could skate by with memorizing the material but not really understanding it. I bet a high schooler could pass it without much study.
+Exams were weighted at 24% (12% exam 1, 12% final). I'd rather weight the projects more heavily and downweight the exams considering that the exams don't really "test your understanding"
+Projects ranked by enjoyment:
+
+BGP Hijacking: Most applicable and you're forced to do a bit of sleuthing in the RFCs for some parts of the project. TA videos were very helpful and as long as you have mininet working at the start of the course, no problem. It's a nitpicky and detail oriented project so if you're not that type of person, you'll struggle
+This project also resembles real world software development because you're thrown into a small codebase with some config files that you need to thoroughly understand before you can make your changes. There are a ton ton ton of gotchas, but once you get things working, the concepts make sense
+
+SDN Firewall: Helpful for getting practice on wireshark pcap files. Jeffrey is really sweet and he makes the project approachable. It's not "hard for the sake of being hard" but it preps you for intro to info sec
+
+Distance Vector: Algorithmic project and was more like a leetcode medium difficulty. Aja's video on how bellman ford works made the project a piece of cake
+
+STP: Algorithmic and DSA esque project. The requirements are a bit tricky but worded very specifically. This project didn't really help me internalize STP protocol since you're implementing a simplified version of it
+
+
+The course is not a total blowoff but relatively easy. Coding assignments are just implementing basic algorithms or packet processing/firewall rules in Python. Most of the lecture material is ripped from textbooks or poorly written.
+
+CN is an okay course to "check the box" if you've never formally studied computer networks. Most of the knowledge I learned during the course was from reading the Kurose textbook or preparing for the midterm/final exam. Don't expect a lot of value if you do the bare minimum for an A.
+
+This is a good course to know how networks work, a good fit for beginners at CS or OMSCS. My grade is A (98%).
+
+Before diving into the detailed review, I will first share my background so that you understand the whole picture. I am a Developer Team Lead with 7+ years of production experience. During my undergrad I took a lot of CS courses such as Discrete Math, Computer Networks and others. I am proficient in JavaScript, TypeScript, Java and Kotlin.
+
+The Computer Networks course was really awesome. It is well structured, the projects are very well documented and provided with video explanations. There are a lot of additional readings during the course that you can read to strengthen your understanding. In fact, this is the main reason why the course took me 15 hours/week — I read each and every additional reading or book chapter they provided and I have no regrets :) There is a ton of useful material in the class. The readings on canvas are basically copy/paste from research papers or other books. Sometimes to understand the topic well it is required to see the source paper.
+
+Further, I liked the projects very much. I recommend not only doing the required stuff, but also inspecting the project thoroughly to try to understand and reproduce each piece of code and to better understand each tool involved. You will get a clear picture of what you are doing then. This approach also took a lot of additional time and effort.
+
+I especially liked the Kubernetes tutorial, which was experimental in Spring 2026. There were other experimental tutorials that I didn't take: "Network Performance Diagnosis Lab", "BGP Basics Tutorial". The course instructor Maria Konte says that tutorials will soon become an integral part of the course. I highly appreciate this intention.
+
+Additionally, I have to mention that if you just want an easy A with the minimum effort, you can get it here. The exams are not challenging at all if you read the Canvas (minimum) material. The projects may be completed without deep understanding of what is going on. Weekly quizzes may be easily finished without having to read the material. You can just start the quiz and quickly find all the answers in the material.
+
+To sum up, the course gives a lot of learning possibilities, but does not push everybody to make use of them.
+Overall, not a bad class. I thought the projects really are the redeeming part, but there are too few of them in my opinion for the length of the class and this class honestly has been easier than some of my community college pre-reqs to prepare for OMSCS. Only recommendation is have some experience reading and writing in Python and you'll have an easy A.
+
+I would put the projects at a 4/5 for applicability. Some were harder and some were easier, but they all proved to be somewhat interesting. I need to give the weekly lectures, exams, and content like a 2/5 though. I understand why it exists because this is a graduate class that needs to in depth, but the dry slide clicking and old lectures were not super helpful and I honestly felt like I didn't learn any content passed that required to answer the exam questions which were overly simplistic.
+
+The course is an easy A if you want a light semester.
+
+
+
+Advanced Operationg systems reviews:
+I come from a CS background and work as a software engineer with ~3 years of experience
+
+I found the content in this course to be a bit of a letdown. The expectation is for you to read a lot of papers, so the lecture material is fairly high level. I found that a lot of this course covers topics from papers in the 80s and 90s, and even though I'm sure these are super important papers, it felt too much like a history lesson for me to care. There are some interesting topics however, especially towards the end of the course.
+
+The projects were difficult but rewarding, and as long as you have a decent coding background, I didn't find any of them super challenging. However, I did start early on all of them. The last one especially would have been super difficult if you procrastinated.
+
+The exams were pretty easy - the majority of the exam questions are released beforehand so it's fairly hard to perform poorly on them in my opinion.
+
+Overall a decent course if you want to better understand the history of some of the design decisions taken by early OS architects. However, if you want to understand modern operating system concepts, I think this course is a waste of time.
+
+Fall 2025 - Good course overall, Professor Kishore has a lot of passion for the topics which I think rub off on students. There is a weekly zoom call which students can join and take part in polls for extra credit.
+
+I also had good experiences with the TAs.
+
+I enjoyed the projects the most, the second one required writing a paper which took the most time. The 1st and 4th took around the same amount of time. While the 3rd was the shortest.
+
+1st and 4th project - about 40 hours. 3rd project - about 25 hours 2nd project - about 60 hours, mostly due to me wanting to write a very good paper, which might not have been necessary
+
+I think the lecture content is a bit too long. But as other students said some time can be saved by not reading the papers. 80% of the questions are released ahead of time and usually. If a question doesn't get covered in the lecture it will usually be found either in a paper quickly using CTRL+F, or in a hangout session which was previously recorded.
+
+Even with 80% questions released there is only 3 days to answer these questions. So some studying is still required to have a general idea of where to look for an answer. There is collaboration between students for the test answers, usually if a question has a big consensus it's probably the correct answer. For other questions with a variety of answers trust your own answer you found from the material.
+
+(Fall 2025) Solid class. The first portion felt like a review of GIOS/HPCA, and the rest of the course was an overview of OS techniques/innovations presented through academic papers. It improved my system design ability, especially for distributed systems.
+
+The lectures were easy to follow and engaging. Kishore is a great professor. If you have the time to go to the hangouts with him, I found it useful to reinforce lecture topics (plus extra credit points).
+
+The projects were good. My ranking of difficulty (hardest to easiest) is P4 > P1 >> P2 > P3. P4 and P1 took a significant chunk of time while P2 and P3 could be done in a couple days. P1 you build a CPU scheduler/memory manager using libvirt, P2 you implement some barrier algorithms and write a report on their performance, P3 is a introduction/review of asyncronous gRPC, and P4 you implement MapReduce using gRPC. There is an option to work with a partner. I did not and don't think a partner is necessary. The projects are long (esp. P1/P4), but IMO not so long as to require a partner. Doing them solo also helped my learning/programming ability. Getting help on the projects is done through Ed, and it was mostly students helping other students, not TAs helping students like GIOS.
+
+I did not like the exam format. 80% of the questions are released ahead of time on Friday night and the exam is due Monday at midnight. Students can collaborate on the answers to these 80% of released questions. I felt like the exam format encouraged memorizing answers to the 80% of released questions and crossing your fingers for the other 20%. They are also all open response questions so you can't BS an answer you don't know. The exams get easier as the semester continues.
+
+I think the difficulty of this course is overstated. There are really only 4 papers required for the projects/assignments (2 for P2 and P4, and 2 for the paper summaries). There are 90+ papers - reading them all is not a good use of time when the lectures/hangouts review them enough. I was able to pair this course with CN while working full time.
+
+Hardest course I've taken thus far of: GIOS, AOS, SAT, SDCC (yes, the one after this one. The hardest parts of SDCC are definitely harder than AOS, but the average week of AOS was much more than the average week of SDCC). The reason being it's just a ridiculous + consistent amount of content you need to be on top of if you want to maximize the material: multiple research papers per week, projects, lectures, and then tests.
+
+Project 1 and 4 were hard, project 2 was not really hard but it was kinda tedious (so it will take some time), and then project 3 was easy, more like a primer for project 4. If you respect project 4 and really give it a go before the last week/2 weeks, you'll end up fine.
+
+Tough course, Definitely front heavy but the pace slows as course reaches the end. Hang outs are good to summarize the lessons. Stay consistent and put the time in. If you can get past project 1 and exam 1 comfortably. Continue that effort and.. that is it.

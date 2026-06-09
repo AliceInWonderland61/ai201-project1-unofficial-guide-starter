@@ -1,0 +1,88 @@
+Source: r/yorku
+University: York University
+URL: https://www.reddit.com/r/yorku/comments/i86cwl/computer_science_students_rank_your_undergrad/
+==================================================
+
+[POST] Computer Science Students rank your undergrad years by difficulty
+I'm interested in knowing which years were the hardest in your undergrad and which ones were the easiest. 
+
+Also, what were your top 3 easiest and hardest courses in CS and maybe give a description or reason as to why you found it hard or easy.
+
+---
+
+I did my first 2 years in another program (Space Science), but all my credits counted towards Comp Sci (either as degree requirements or electives), so here's my opinion:
+
+-----Years By Difficulty-----
+
+Hardest for me was 2nd>3rd>=1st*>4th. 
+
+*I did my first year so long ago that I don't remember it all that well. I do remember not putting much effort into it, but still getting by with average/above-average grades. For that reason, I'll say it was either easier than or about the same as third year for me.
+
+First year is usually courses that are common to most if not all programs in Lassonde (maths, sciences, gen eds, etc.) so it's not too divergent. The hardest part about first year is getting used to university life and having to be on top of your own stuff.
+
+Second year is when your courses become more specialized and focused on your program. In both programs I was in, the jump from first to second year was the biggest shock. You start learning many more things specific to your program, which gives you a good idea about whether or not you belong in it. That's also why (I imagine) 2nd year has the highest dropout rate in Comp Sci (from the stats I saw a few years ago).
+
+The jump to third year is much more forgiving, but in Comp Sci specifically, there are a few problem courses (which I will address later). Overall, it is easier than 2nd year. 
+
+I'm going into my 4th year now, but from everything I've heard (and from the one 4th year course I've taken), it seems to be easier than 3rd year. I don't know if it's because the courses are just easier, or if you're just better at the material from previous years, but even the harder 4th year courses seem reasonable. The one course I took (EECS4101 - Advanced Data Structures) is supposed to be one of the most difficult 4th year courses, but it seemed much easier to deal with than some 3rd year courses. It helped that I had a great prof (Eric Ruppert), but still. 
+
+-----Difficult Courses-----
+
+The hardest course for me, in terms of understanding the material, has been **EECS3101 (Design and Analysis of Algorithms)**. This course is notorious for being one of those courses where you either know it right away, and you'll be fine, or you have to REALLY work at it. I fell into the latter category.
+
+**EECS3311 (Software Design)** is another nightmare course. The material itself is reasonable, but the programming language you use in this course is quite esoteric - it's used almost nowhere outside of this course. That, combined with an insane workload that makes the course feel like a 6-credit course instead of the 3-credit course that it is, leads to a lot of students struggling. 
+
+**You should do everything you can to avoid taking 3101 and 3311 in the same semester.** 
+
+**Note to those of you freaking out about 3311:**
+
+1. Jackie Wang is probably one of the best (if not THE best) instructors in the department. He will do everything he can to get you through the course with a reasonable grade. You WILL have to work, but you won't drown. 
+
+2. It's almost impossible to fail this course. The profs understand how hard this course is for most students, and they grade very reasonably. They don't exactly curve, but they adjust the thresholds for letter grades. When I took it, you needed <35% in the course to get an F. Just do the work; you WILL pass.
+
+**EECS3000 (Professional Practices in Computing)** was also considered bad by a lot of people. I think most of that stemmed from the professor who taught it, who has now retired. The professor teaching it this year (Jarek Gryz) is a great prof, but no one knows how he will conduct the course. It is a writing-heavy course that requires a decent amount of reading and research. Maybe most Comp Sci students dislike it for that reason, as well, but I quite enjoyed it. 
+
+**Math2030 (Elementary Probability)**. There's really not much to say about it: all the profs for this course are not very good, and the difficulty of the material itself ramps up hard about 35-40% of the way through the course. I had to teach myself the whole course, as the lectures were quite confusing.
+
+**EECS2021 (Computer Organization)** is another course that a lot of people struggle with. Being a 4-credit course, it does demand a little bit more time and effort. The labs are long, and the material is quite cut-and-dry nature (as opposed to being more abstract or theoretical). I didn't mind it, but it does require effort.
+
+**EECS2011 (Data Structures and Algorithms)** is probably the hardest second year course in terms of material understanding. 2011 and 2021 are analogous to 3101 and 3311, respectively. Look at my descriptions of what makes 3101 and 3311 hard above; the reasons are very similar. 2011 and 2021 are doable together, though. 
+
+**EECS3221 (Operating System Fundamentals)** is not unreasonable; I just found the lectures incredibly boring. There also seems to be a lack of great profs for this course. There are some that are okay, and the material is interesting, but there are times when you really have to slog through it. 
+
+-----Easy/Fun Courses-----
+
+**EECS3482 (Intro to Computer Security)** is probably the easiest 3rd year course. It is very beginner-friendly, and the professor who normally teaches it (Natalija Vlajic) is fantastic. The material is interesting and palatable. Definitely an EECS GPA booster.
+
+**EECS3421 (Database Systems)** was another fun course. It was more difficult than 3482, but the assignments were fun and the professor (Jarek Gryz, the same prof teaching 3000 the coming semester) was great. This was probably my favourite 3rd year course.
+
+**EECS2031 (Software Tools)** is a very low-workload course. It is an intro to the C language, along with some scripting languages (Bash and Awk when I did it). You're not expected to master it by the time you finish; just pay attention in class and do the labs and you'll be fine.
+
+**If I did not mention a course here, it's either 1. a first year course (which are all reasonable, IMO), 2. a reasonable upper-year course that didn't stand out to me, or 3. a course I haven't taken.**
+
+Wow this ended up being a lot longer than I expected. No wonder I liked 3000 so much.
+
+Feel free to DM me if you have any more questions :)
+
+---
+
+2, 1, 3, 4 (2 being hardest and 4th being easiest).
+
+Top 3 hardest course would be 3101, 2021, 3311
+
+Top easiest course: 3421, 3461, 4413
+
+---
+
+4th year courses are only easier if you have actually learned something in first 3 years. But usually by second year you get a hold of uni and the jump to 3rd year is not as hard as it is from 1st to 2nd year.
+
+---
+
+Hardest year for me was 1st. Every other year than that was easy il say.
+
+---
+
+2/3 is the hardest. 4 is the easiest.
+
+---
+

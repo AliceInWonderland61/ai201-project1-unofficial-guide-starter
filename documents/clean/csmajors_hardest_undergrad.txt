@@ -1,0 +1,285 @@
+Source: r/csMajors
+University: Various
+URL: https://www.reddit.com/r/csMajors/comments/13u8utd/hardest_individual_undergrad_cs_course_in_the_us/
+==================================================
+
+[POST] Hardest individual undergrad CS course in the US?
+The hardest undergrad math course in the US is well-known to be Math 55 at Harvard. What's the equivalent in CS? I was thinking CMU's 15-410 (Operating Systems) has to be up there as not many other universities ask you to build an entire multithreaded kernel, then turn it into a hypervisor for other students' kernels, all in four or five weeks. (It’s either in pairs or solo.) Are there any more difficult courses I'm missing?
+
+EDIT: a sample CMU 15-410 mid-term for those who are interested: https://www.cs.cmu.edu/~410/public-archive/f22-midterm/examB.pdf
+
+---
+
+Berkeley has CS 162 and EECS 126
+
+---
+
+The advanced Algo courses of top unis are pretty rough too
+
+---
+
+Really? A full kernel?
+
+---
+
+all of cmus courses, they open a lot of their courses but I really wish they opened their os and compilers courses. Both are pretty famous
+
+---
+
+That's going to depend on the person. Plenty of theory people find the architecture courses difficult, while the people leaning toward hardware might struggle more with the theory courses.
+
+---
+
+I think across the board the OS classes are the toughest, followed by design and analysis of efficient algorithms, computer organization and maybe we can add on all the advance math requirements.
+
+---
+
+I’m not entirely sure how it compares to the rest of the nation, but at my school it seems to be ECE 391 “Computer Systems Engineering”
+
+---
+
+find an undergraduate class teaching kolmolgorov theory or algorithmic information theory in general, and that will be your answer.
+
+---
+
+I'd say the OS class at Georgia Tech is also super tough; you build a multicore OS for the Raspberry Pi throughout the semester with networking capabilities
+
+---
+
+at UW distributed systems is kinda brutal
+
+---
+
+Maybe Waterloo's [compilers course](https://student.cs.uwaterloo.ca/~cs444/), but nothing really comes close to the craziness that is Math 55. That's basically covering the entire second half of an honors math degree, and the first year of graduate classes in a single year. Maybe even more. It'd be like doing a systems class that covers all of compilers, databases, operating systems, networks, and then an extended sequence on distributed systems with some formal methods and abstract interpretation.
+
+---
+
+Waterloo Real Time Programming aka Trains ( so i have heard not sure)
+
+---
+
+Math 55 is by no means the hardest undergraduate math class in the nation… 
+It has like a 10-15 drop rate...
+
+Do you really think a freshman level class is going to be the hardest class math class in the nation?
+
+---
+
+idk but compilers is the hardest ugrad course at cornell
+
+---
+
+If you include Canada, UBC’s CPSC 436A is a similar OS course. You basically recreate this non-POSIX OS that has a very complex capabilities system for handling resources. It’s a huge workload and the only help you get is course resources since no OSs (other than the OS it’s based on) works like that. Each core acts like a separate instance of the kernel so multicore becomes a distributed systems problem. The time is very limited so you are fighting against tech debt from things that you previously wrote. It is a microkernel so most of the actual kernel code is already done but everything from memory allocation to process management is done in user space and has to be done.
+
+I have no idea what that CMU course is like so it may be more difficult but UBC’s is definitely up there. I did an exchange at Berkeley so I can say for certain that their OS course (CS 162 I think?) is way way easier. I happen to specialize in systems so it was one of the easiest courses I’ve taken since everything is classic POSIX so every problem has already been solved by every other OS.
+
+---
+
+6.172 was pretty hard imo
+
+---
+
+Distributed computing and intro analysis of algorithms at Cornell University have got to be up there
+Distributed had us implement sharding (with reconfigurations and transactions), paxos, primary-backup, etc. one after another in the same project (building off each other). We had a lab that took a median of 50 hours to complete. All of this on top of some of the longest exams I've ever taken and regular theory-esque homework.
+It was pretty rough
+
+I've also heard bad things about the compilers course
+
+---
+
+cornell compilers (CS 4120+4121) is a fantastically taught but brutal course where you build an entire compiler from scratch for a C-like language
+
+---
+
+I had 110% in my CS 105 class until my dad died. Then I had no stomach to talk about school.
+
+What should I have done, filed for bereavement with the university? I wonder if I can do that 2 years later :)
+
+---
+
+I thought this was a stupid question when I first read it, but if you’re talking about discussing each university’s implementation of the same course, then this actually sounds interesting.
+
+---
+
+In terms of difficulty of content (not difficulty of getting a good grade) the hardest class I took at Berkeley by far was cs 270 (graduate algos). Conceptually was on a whole other level than 189, 127, 126, etc.
+
+---
+
+Theory of computation
+
+---
+
+Columbia’s toughest classes are COMS 4232 Advanced Algorithms, COMS 4252 Computational Learning Theory, and COMS 4118 Operating Systems. COMS 3157 Advanced Programming (C, Linux, Git, Sockets, C++) was definitely one of the toughest required CS courses, but the instructor removed a lot of content after being accused of racism, and it’s much easier now.
+
+---
+
+The final project for computer architecture at umich is designing an out of order processor in systemverilog graded on performance. You also have to choose multiple additional features to implement, the most difficult being simultaneous multithreading
+
+---
+
+Harvard's CS161 (Operating Systems) and CS124 (Algorithms) are pretty notorious
+
+---
+
+Compilers is traditionally the hardest in cornell lore
+
+---
+
+umd cs has the same course as cmu it’s also considered one of the hardest courses at the school w an avg gpa of 2.1 or soemthing. Another notable one is algorithms at umd has a ~50% fail rate or something like that
+
+---
+
+Difficulty is subjective. Most people who did a comprehensive math undergraduate program do not actually think the modern version of Math 55 is anywhere near the “hardest” undergraduate math course lol
+
+---
+
+Bruh this is literally brain fuck 
+In 3rd world country universities we only taught abt process and thread scheduling in operating system course
+
+---
+
+System Programming and OS is a weed out class at my college - I went to a top feeder school for Apple
+
+---
+
+Putting forward compilers classes
+
+---
+
+Compilers was probably the hardest one at my fancy school. Lots of theory combined with writing a (somewhat simplified) C compiler. Getting code to link and run is very satisfying. Only one student my year managed to get it working and that was by skipping most other classes and having no life.
+
+---
+
+Penn cis 160 (discrete math) is insanely difficult. I know a lot of people r saying here that discrete is easy but this course covers like 10x as much and the exams avgs r sometimes in the 30s. It’s rated one of the most difficult class in the university. The exams r harder than any discrete course I’ve seen at any other uni by far. We covered some advanced graph theory, Ramsey theory, halls theorem etc.
+
+---
+
+Discrete math
+
+---
+
+How can this be measured and why does this question matter?
+
+---
+
+This post propagates elitism and it’s gross.
+
+My hardest course was Java because I was panicked. Getting into cs is hard.
+
+---
+
+I was told PLC at RHIT was one of the hardest
+
+---
+
+I took op systems and it was nothing like that exam wtf
+
+---
+
+I read that and was like what is that
+
+---
+
+seems like a pretty normal OS class
+
+---
+
+6.5840: Distributed Systems MIT
+
+---
+
+Well I mean MIT is higher ranking in OS than CMU is. So maybe their OS course is tougher
+
+---
+
+Columbia’s OS class
+
+---
+
+I mean. I think anything with algorithms design/automaton theory ( for ucsd that is like CSE 105/CSE 101).
+
+---
+
+What’s your notion of a “hard course”? Like the most difficult to pass or the most difficult to get an A in?? I feel like both answers may be very different
+
+---
+
+Can't say for specific universities but, Analysis of Algorithms or Data Structures objectively would be the hardest classes amongst CS. At my university some people take DS after a full year of programming classes, and even then I've seen people fail the class numerous times. AoA builds on that foundation from DS, if you struggled with/barely passed DS, AoA is going to be just as bad.
+
+But personally I hated Assembly, fuck all those lines of code just to write "Hello World"
+
+---
+
+Columbia's Theory of Computation class.
+
+---
+
+Regardless of any university, I think it would be compilers
+
+---
+
+Duke CS330 - Design and Analysis of Algorithms
+
+---
+
+CS 241, CS 374. ECE 391
+
+Legendary classes at UIUC
+
+---
+
+Shoutouts to Prof. Babai’s Honors Combo and Honors Graph Theory courses at UChicago. You can scrape a B by doing the bare minimum, or you can sell your soul and work 40+ hours a week to finish the problem sets and attempt challenge problems. 
+
+As a UChicago student, also obligated to challenge Math 55 as “hardest undergrad math course” - Honors Analysis says bet. We hit Baby Rudin, LinAlg, differential forms,  and measure theory.
+
+---
+
+I feel like I was cheated out of OS class, my professor only assigned a single project, writing a process scheduler. Also we just used zybooks for most of the learning and our grades, insanely easy to pass.
+
+---
+
+I did 15-410!  It wasn’t so bad.
+
+CIA or KGB?
+
+---
+
+UTSA has Operating Systems taught by one professor that uses some of CMU’s questions on exams.
+
+---
+
+I heard a rumor that Computer SYSTEMS CS3214 by Virginia Tech is one of the toughest in the nation.
+
+---
+
+6.046 at MIT and several of the other CS courses here can be pretty hell
+
+---
+
+Bruh as a cmu student, did you make this post to circlejerk cmu... 🤦‍♂️
+
+---
+
+Any course at Imperial College London (EEE Dept) is up there and much harder than the others mentioned here. 
+
+For fyi: https://xav.ai/exam_papers/
+
+---
+
+I'm not studying in the US, so it probably speaks a lot about the quality of my cs program 😃
+
+I've checked the mid term and I don't understand anything 🤣 And I have already passed my OS course.
+Wow, America cs schools are way harder for sure.
+
+---
+
+'CSC265: Enriched Data Structure & Analysis' at the University of Toronto. 10 brutally difficult assignments, a midterm and a final exam to seal the misery dealt. 
+
+The professor who teaches the course asked her teaching assistants (who are also supervised by her in their doctorate) to look for problems to assign as homework in *research papers* they had read.
+
+---
+
+Lmfaoo youre joking. The hardest undergrad Math course is Differential equations. You gotta pass Calc 1, 2 and 3 to take it
+
+---
+

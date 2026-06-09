@@ -1,0 +1,166 @@
+Source: r/RPI
+University: RPI
+URL: https://www.reddit.com/r/RPI/comments/sfoxhy/calling_all_cs_major_to_give_your_opinion_of_the/
+==================================================
+
+[POST] Calling all CS Major to give your opinion of the ranking of CS classes
+Hey CS Majors, let's do something fun that could be useful for future and current students, let's make a ranking of the difficulty of CS major required classes, those include:
+
+CS1,
+
+DS,
+
+Comp Org,
+
+FOCS,
+
+Algorithms,
+
+Principles of Software,
+
+Operating Systems,
+
+Programming Languages.
+
+&#x200B;
+
+P.S. if you have only taken a subset of these classes, you can just give the ranking of that subset
+
+P.P.S Let's define hardness as let's say, the class that you would least want to take if you had an already busy semester. So a combination of complexity and time commitment.
+
+&#x200B;
+
+Thank you!
+
+---
+
+Do keep in mind that some of these classes are conceptually easier than others but are earlier in the curriculum and therefore are relatively more difficult. Also, the quality of the prof will influence the difficulty; I had a bad prof for both PSoft and Proglang and it seriously detracted from the course quality. With that said, here's my ranking:  
+
+1. Data structures (largest time commitment of all CS classes, and you're introduced to a whole bunch of difficult new concepts)
+2. FOCS (a whole bunch of brand new concepts and also a fairly high time commitment)
+3. Proglang (some of the languages there actually gave me a headache)
+4. Algo (conceptually difficult)
+5. Opsys (conceptually somewhat tough and reasonable workload; this course is also often taken over Arch which doesn't help)
+6. PSoft (concepts aren't too hard and relatively moderate time commitment)
+7. Comp Org (conceptually pretty easy and low time commitment)
+
+I came in with AP credit for CS1 so I never took it here and can't rank it.
+
+---
+
+I'll go first! (hardest to easiest)
+
+DS,
+
+Comp Org,
+
+Algorithms,
+
+FOCS,
+
+Principles of Software
+
+---
+
+I think it really depends on the type of CS person you are. As a low level CSE I loved data structures, opsys, and coco/canoe; however, I thought FOCS and algo we're much more difficult. A friend of mine whose a CS/Math dual thought the exact opposite
+
+---
+
+Ranked by time commitment (Most time -> Least time):
+
+1. DS
+2. FOCS
+3. Algo
+4. PSoft
+5. CompOrg
+6. OpSys
+7. CS1
+
+Ranked by difficulty of the concepts (Hardest to understand -> Easiest to understand):
+
+1. CompOrg
+2. Algo
+3. FOCS
+4. PSoft
+5. DS
+6. OpSys
+7. CS1
+
+---
+
+As others have said the prof matters. I’ll include the prof names if I can remember. These are ranked by a combo of the amount of time I had to spend on work and how often I had to go to class to figure out what was going on.
+
+1. DS - Barb Cutler
+2. ProgLang - Milanova
+3. FOCS - Goldschmidt
+4. Algorithms - Yenner
+5. OpSys - Goldschmidt
+6. CompOrg - Hardwick
+7. PSoft - Old guy? Kept defending java as a language 
+8. CS1 - Wes Turner
+
+---
+
+Here’s my take:
+1. Data structures
+2. Programming Languages
+3. Algorithms
+4. Operating Systems
+5. Comp Org
+6. FOCS
+7. CS1
+8. Psoft
+
+---
+
+The difficulty of these classes is 100% prof dependent aside from DS and CS1 imo. I havent met one person who didnt think DS was the hardest cs class, and CS1 the easiest. All other classes could be ranked in any order between those two. It wholly depends on what prof you get, and how much you enjoy the course material. Having said all that, heres my ranking:
+
+1) Data Structures
+2) Algorithms
+3) FOCS
+4) Comp Org
+5) OpSys
+6) PSoft
+7) CS1
+
+---
+
+For reference, I'm a second-semester sophomore (no OpSys or ProgLang yet) who came into the school with prior programming experience. I also won't be commenting on Algos and PSoft because I'm taking them this semester.
+
+&#x200B;
+
+Ranked on difficulty:
+
+* FOCS (Malik) - Honestly, I struggled through this class. Malik is a crazy smart guy (he's the prof and wrote the textbook) and wants to share his passion with all of us. However, while his lessons were (almost) always clear, the tests and exams kicked my ass.
+* Comp Org (Kuzmin)- When I took the class last semester we had an exam every other week, and while it was open notes, for most of the class we were writing MIPS Assembly and that shit's hard AF to write on paper. The concepts were challenging at times, but things never didn't make sense after some thought - and MIPS will take a **lot** of thought for most people.
+* Data Structures (Plum)- The concepts aren't hard, but expect to spend more time on this class than you thought possible. Learn from me: don't take 20 credits during DS semester...
+* CS1 (Mushtaque)- If you come in with a basic understanding of programming, you'll be fine.
+
+&#x200B;
+
+Ranked on time commitment:
+
+* Data Structures (Plum)- I pulled probably half a dozen all-nighters for this class. I'm not a bad programmer by any means and I understood the course content, however, the homework **will** probably take you all week. Tip: Work on the homework the moment it's released.
+* Comp Org (Kuzmin)- Make sure you stay sharp with your C/C++ from DS and you'll be fine for the first portion of the class. For the MIPS portion (the majority of the semester), make sure you have good reference sheets and learn the language as fast as possible.
+* FOCS (Malik)- Homeworks and proofs just took me a lot of time to conceptualize. I spent a lot more time on the homework than most people I know.
+* CS1 (Mushtaque)- I already knew Python, so the homeworks usually didn't take me more than a couple of hours. I know people who spent a dozen or so hours on the homeworks, but they were people who didn't know Python coming into the course. I finished the final project in a single night.
+
+---
+
+1. DS
+2. Algo
+3. Prog Lang
+4. FOCS
+5. Comp Org
+6. Op Sys
+7. P Soft
+8. CS1
+
+---
+
+DS, FOCS, CS1, OpSys, Algo, PSoft, Prog Lang, Comp Org
+
+CS1 is high for me bc I had 0 coding experience at the time. OpSys had a hard project and 4 easy homeworks and easy exams. DS is painful due to the time commitment and debugging. FOCS was extremely stressful because there was no curve for us and hard exams. If i had more programming experience, id rank FOCS as the hardest. For reference, I got As in all of the classes mentioned above so I'm not biased by the grade i received. It also depends on the professor.
+
+---
+

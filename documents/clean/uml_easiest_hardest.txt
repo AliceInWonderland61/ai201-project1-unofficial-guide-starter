@@ -1,0 +1,53 @@
+Source: r/uml
+University: UMass Lowell
+URL: https://www.reddit.com/r/uml/comments/d9ct6d/cs_required_classes_easiest_to_hardest/
+==================================================
+
+[POST] CS Required Classes - Easiest to Hardest
+Please rank the below from easiest to hardest.  
+Difficulty is relative to each person, so I'm expecting different answers.  
+No need to write the course name, can be just a set e.g. {2,4,6...}  . If classes are equal in difficulty (1=4) then do {2,6,1=4...}
+0.Computing I
+
+1.Computing II  
+2.Computing III
+
+3.Computing IV
+
+4.Assembly Language Programming
+
+5.Discrete Structures I  
+6.Discrete Structures II  
+7.Logic Design  
+8.Oral & Written Comm. for CS
+
+9.Foundations of Comp. Science  
+10.Intro. to Operating Systems  
+11.Analysis of Algorithms  
+12. Probability & Statistics I (MATH.3860)  
+13.Organization of Prog. Lang  
+14.Calculus I  
+15.Calculus II
+
+---
+
+The hardest classes are going to be Assembly, Comp 2 (generally this is considered a weed-out class), Calc 2 depending on your math skills, algo, and logic design because of the tough grading. OS, OPL, Foundations, Architecture, and Discrete 2 are challenging, but lots of the concepts are shared across classes so if you pay attention and make connections you'll be fine. 
+
+Calc 1, discrete 1, oral, and stats are pretty easy by comparison.
+
+Oh and comp 3 and 4 are a breeze if you're a competent programmer in C++.
+
+---
+
+Thanks boys. The reason for this is that I'm trying to take as many classes and make a balanced workload at the same time.
+
+---
+
+{0, 2 = 3, 5 = 6 = 14 = 15, 12, 1 = 7 = 9, 4}
+
+---
+
+CS requires stat?
+
+---
+

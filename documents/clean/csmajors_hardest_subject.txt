@@ -1,0 +1,386 @@
+Source: r/csMajors
+University: Various
+URL: https://www.reddit.com/r/csMajors/comments/zrpwz4/in_your_own_opinion_what_is_the_hardest_subject/
+==================================================
+
+[POST] In your own opinion, what is the hardest subject in Computer Science?
+
+---
+
+Computer Architecture was the hardest class I've ever taken so far. Barely passed it. Have operating systems next semester which I heard is just as bad.
+
+---
+
+theory of computation
+
+---
+
+Operating systems.
+
+---
+
+Touching grass, still figuring out this one
+
+---
+
+I find you can divide cs students pretty neatly into algorithms and operating systems people.  Algorithms people who love solving leetcode problems all day seem to struggle with OS, meanwhile OS people who like fucking around with the linux kernel seem to struggle with algorithms.
+
+---
+
+I don't know if this counts as purely computer science, but I have found proofs to be the hardest subject I've dealt with in my CS classes.
+
+---
+
+I thought Computer Organization/architecture was crazy hard.
+
+---
+
+Discrete Math
+
+---
+
+Cryptography imo
+
+---
+
+Circuit design from computer organization is probably up there.
+
+---
+
+for loops
+
+---
+
+Deep Reinforcement Learning. Proving why certain algorithms work and to what extent. There is a huge amount of different flavours of math combined in this field in ways you would have never thought of in your worst nightmares.
+
+---
+
+Distributed systems
+
+---
+
+In a computer science degree.. discrete mathematics and anything that involves a proof.
+
+---
+
+I think that this will be different for everybody. Because i have found that being disinterested in something can increase its difficulty many times beyond what others would find.
+
+But i would say that i probably find anything hardware related to be hard. I like code, and i find the physical world to be less interesting when it comes to CS. Its interesting at a surface level like you would see in a documentary. But i couldnt imagine working on hardware systems in my life.
+
+If we include math though. Id probably say that math is up there too.
+
+---
+
+Discrete math, operating systems, algorithms and data structures, physics I, calc II, differential equations.
+
+---
+
+I failed at Hello World 😪
+
+---
+
+Computer Architecture
+
+---
+
+For most people it’s either Operating Systems, Compilers, Theory of Computation, or the sneaky one Computer Graphics.
+
+---
+
+compiler design
+
+---
+
+Talking with girls
+
+---
+
+Discrete Math
+
+---
+
+Finite automata and formal languages
+
+---
+
+I thought ML/DL was pretty hard. It’s not just cs tho, that’s one perspective, the quant is killer with this shit. I didn’t take enough stats 😭
+
+---
+
+operating systems
+
+---
+
+AI
+
+---
+
+Physics II (eletromagnetism) and Calculus III (vector calculus + diff. eq in one semester).
+
+In computer science specifically I think it's  computer architecture. I hated that class and I've hated assembly and anything related to electronics ever since
+
+---
+
+When we studied this at my school in the late 90's, the cliffs were assignment ( a=a+1 ), recursion and indirection.
+
+Some people just intuit those and it's easy, but for those who can't, CS is a mystery.
+
+Academically, DSA were toughest.  AI/ML was hard without the requisite stats skill.  Graphics was hard without Linear Algebra.  Any course with a significant coding assignment load was also hard.
+
+---
+
+Combinatorics definitely kept me up at times.
+
+---
+
+this is the best way i can phrase my interests 😭 hopefully someone can find better words to capture what i mean.
+
+content that is more “hardware-ish” and requires students to “accept facts” for what they are such as operating systems, computer systems, etc is less enjoyable to me. 
+
+however, i’ve always enjoyed the more “logic-based mathematical” content, so data structures and algorithms, dynamic programming, theory of computation, etc. are my jam.
+
+though imo the latter is more difficult to learn compared to the former.
+
+---
+
+Linear algebra or proofs imo  
+
+I hate anything math related tbh
+
+---
+
+Combinatorial optimization
+
+---
+
+Theory of computation,  man that is harder than machine learning
+
+---
+
+Man, looking at the comments really shows that 99% of the people think CS is just LC or Operating Systems. Like really, how do you not mention compilers, the most amazing application of so many different algorithms? Networks? Try reading the Ethernet Spec or how information is sent over waves using WiFi (DFT pretty much changed the world). Don't even get me started on the incredible interdisciplinary complexity that goes into a modern Language Model. And to be completely honest, I have barely managed to scratch the surface here.
+
+---
+
+Database management systems
+
+---
+
+anything math/algo related.
+
+---
+
+Discrete math by far. I've heard computer architecture is also bad but I haven't taken it yet.
+
+---
+
+I think our school implemented a good curriculum 😂. Opinions about  [course curriculum ](https://drive.google.com/file/d/1LXa9QtDECcB-SvEZHF8r0nSInayl7W-b/view?usp=drivesdk)
+
+---
+
+Thus far (Year 2) I have to give it to Physics... Maybe Linear Algebra... Potentially Calc II.
+
+---
+
+SQL
+
+---
+
+Algebra
+
+---
+
+Cryptography
+
+---
+
+Formal methods or theory of computation
+
+---
+
+Signals and systems
+
+---
+
+i hate distributed systems with a passion, and that part of systems where you deal with assembly.
+
+---
+
+Learning high paying tech jobs are in HCOL areas .
+
+---
+
+squeeze juggle lock handle crawl plucky hard-to-find intelligent vanish money
+
+ *This post was mass deleted and anonymized with [Redact](https://redact.dev/home)*
+
+---
+
+I’m a software engineering student so I didn’t have to take as many theoretical classes. But operating systems, calc 2 and distributed systems probably gave me the most difficulty. I would like to learn more pure CS though as I really enjoyed proofs in discrete math and linear algebra.
+
+---
+
+advanced algorithms design and analysis
+
+---
+
+Cybersecurity bc fuck that shit it made me cry so much. The field is so deep and so not deep at the same time it’s frustrating.
+
+---
+
+Deep learning (neural nets n stuff)
+
+---
+
+At my uni the hardest classes are discrete math, OS, computing theory, AI.
+
+---
+
+Data structures
+
+---
+
+Systems programming
+
+---
+
+Basically all of my programming classes were rough for me. Discrete Math, Algorithms, Comp Theory, were all super easy for me. But throw programming assignments my way and I spend 4x the hours as others seem to.
+
+---
+
+Group projects especially OOP c++ in my software engineering class because some people prefer to do nothing and I have to do all the work :)
+
+---
+
+If statements
+
+---
+
+Me, signed up for both Computer Organization and Operating Systems courses next semester, reading this thread: 👁️👄👁️
+
+---
+
+Naming and cache invalidation
+
+---
+
+Algorithms and models of computation
+
+---
+
+maybe just me but physics and calc 2 were really a struggle for me even tho not specifically compsci they are required for my degree
+
+---
+
+I’m surprised nobody mentioned machine learning.
+
+---
+
+Discrete mathrmatics
+
+---
+
+Css
+
+---
+
+What's the hardest subject and why is it computer architecture
+
+---
+
+Computability and Logic, the proofs absolutely killed me. Understood the theory and super interesting, but literally could not handle the proofs.
+
+---
+
+Signals and Systems.
+
+---
+
+Signals and Systems with insane amounts of differential mathematics.
+
+Robotics Optimization is also unnecessarily math heavy with 3 dimensional matrices.
+
+---
+
+Cryptography
+
+---
+
+Idk assembly language almost broke me
+
+---
+
+I found linear algebra to be hard af. Caught me by surprise when I got my first test back(I failed it). I just wasn’t able to see the patterns I needed to see in order to solve the problems. 
+
+I ended up with a B in the class, but not without a ton of work.
+
+---
+
+Applied Probability 😭 (elective for MSCS)
+
+---
+
+It was architecture for me
+
+---
+
+Lol my school is a joke my OS class was the easiest class I’ve ever taken because the teacher Kms
+
+---
+
+Assembly course, Linear Algebra, Probability & Statistics, Operating Systems, Discrete Maths
+
+---
+
+Computer organisation and architecture is shittiest as of now. Boring af. Don't understand why what....
+
+---
+
+Computational complexity theory
+
+---
+
+Data structures and algorithms
+
+---
+
+Wait wait....so many people saying comp architecture and OS....I'm taking both next semester along with two other CS courses....can y'all give me any tips or advice on how to avoid falling behind or failing?
+
+---
+
+Compiler construction. The first couple of weeks are very deceiving as the material for lexical analysis and parsing are very easy. However, formal type checking, code optimization, and code generation for an IR are far from trivial… Super interesting stuff but really, really hard.
+
+---
+
+Compiler design.
+
+---
+
+In no particular order:
+1. Data structures and Algorithms
+2. Discrete Mathematics 
+3. Operating Systems
+
+---
+
+Linear Algebra 😭
+
+---
+
+Linear algebra was a pain but I honestly hated calc 2 and discrete math more.
+
+Still have to do discrete math part 2 next semester, yay.
+
+---
+
+Computer Aided Visualisation Mathematics. I'm just glad I passed(2/5)
+
+---
+
+Computer Organization/Architecture
+
+---
+
+Data structures, calc ii, object oriented programming (would’ve said discrete math but I started understanding toward the end of the semester). Only thing I still don’t understand is big-O
+
+---
+

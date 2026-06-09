@@ -1,0 +1,75 @@
+Source: r/uofu
+University: University of Utah
+URL: https://www.reddit.com/r/uofu/comments/vhi0bw/can_anyone_help_with_cs_course_planning_and_let/
+==================================================
+
+[POST] Can anyone help with CS course planning and let me know difficulty of courses?
+I am a student who finished the last semester well and in a full major status finally. I want to make a class plan for graduation, but my goal is to take classes and graduate as soon as possible. I want to take at least 4 cs classes per semester, but I don't know how to balance them because I don't know exactly how difficult they are. Can anyone give me a rough summary of the easy and extremely difficult classes, including cs elective classes or rough plan? I would be really appreciate for your help thank you.
+
+---
+
+CS 4150, CS 4400, and maybe CS 3810 were the hardest for me personally. I know others don’t like CS 2100 and CS 2420 either
+
+---
+
+4150 and 4400 were brutal, don't take those at the same time.  I have heard of people doing it but it seems extremely difficult.  Web dev and Mobile apps were my favorite and easiest classes so you can plan those with some harder ones.
+
+---
+
+If you have no experience with C or C++, do not take 3505 and 4400 at the same time. Though If you're already pretty comfortable with one or both of those languages, it might even be a good idea to take them the same semester.
+
+3500 and 3810 might be the easiest core classes to double up with another required course. 2100 can be if you're familiar with mathematical logic, proofs, and/or probability and statistics.
+
+For electives, foundations of data analysis was probably the easiest. Databases and Programming Languages aren't too bad. 3100 isn't bad if you have good self-study skills, or if you don't find 2100 to be too challenging. Operating Systems isn't bad if you take it right after 4400.
+
+I didn't take mobile web development but I only ever heard how much work it was. Machine Learning will be challenging if you have hard time with mathy courses like 2100, 3100, 4150 etc.
+
+---
+
+Since everyone's experience will be different, I can only share my ranking of most- to least-difficult classes:
+
+4400 (haven't taken it yet, but I assume it will be the most difficult)  
+4150  
+3100  
+\*4480 (Computer Networks)  
+2420  
+2100  
+3810  
+3500  
+3505  
+5530 (Databases)  
+1410 (back when it was just 1410)  
+3390 (Ethics in Data Science)
+
+\* This class was really difficult with Professor Eric Eide, but I've heard it is easier with other professors.
+
+I haven't taken it yet, but 4600 (Intro to Computer Graphics) is supposed to be **fairly easy**.   
+I've heard that Compilers (4470) is supposed to be **super hard** (or maybe it was Operating Systems, I honestly can't remember. Probably both hard).   
+3390 was one of the **easiest classes I've taken at the U**, so if you need something to take with a difficult schedule, take that one.  
+AI, Web Software Architecture, Designing Human-Centered Experiences, Mobile Application Programming are supposed to be **medium-difficulty** (depends on who you ask, I'm sure)
+
+I can relate to your goal of trying to finish the major quickly and find good combinations of classes because *that is what I'm doing too*. I came into the U with pretty much all of my gen eds. My semesters so far:
+
+FA20 – 1410, calc 1, 2 gen eds --> easy (good warm up for school tho)  
+SP21 – 2100, 2420, calc 2, gen ed --> fairly difficult, but doable
+
+FA21 – **3100, 3500, 3810, 3390** \--> surprisingly not that bad (I wish I had saved 3390 for a rainy day tho)  
+SP22 – **4150, 4480, 3505, 5530** \--> surprisingly hard (I was blown away that 12 credits could be this hard)
+
+Upcoming semesters:
+
+FA22 – 4400, 4600, 4000, 3540 or 4540 --> pray for me  
+SP22 – 4500, 3130, 2 CS electives (not sure yet) --> not as worried about this sem
+
+---
+
+Here's the risk of trying to do everything as fast as possible especially in computer science... you may fail. You have to have Cs in all your major courses as a minimum.  So, you run the very high risk of being overloaded, not doing well, and being stuck retaking classes... which costs more money and more time! 
+
+If you're also trying to work, have a life, or care for a family... your Minecraft grind will not set you up for success.  Is there a specific reason you want do your coursework as fast as possible ? Not trying to crush your goals,  but please take the long view of your plan. Also, talk with your advisor.
+
+---
+
+TBH it's so hard to do a ranking now. Too many new professors, classes and professors being swapped from class to class. Nowadays it seems like everyone is obsessed with getting a perfect GPA rather than content interest and usefulness. Best advice I can give is take advantage of Utah's strengths in its classes and program. Every university offers something different in the strength of its classes and research. Currently right now the research fronts which are leading to more classes being offered are Security, Systems, Visualization, Graphics, Data Science. Even if you're friends are all into ML and what's hot and makes a lot of money, would recommend trying different classes and areas in the department to get an idea of whats out there and opportunities. People do take 4 cs classes, but that's a ton of hours of homework, time spent, and theory especially for theory/application heavy classes like 4400, OS, Algorithms etc.  The CS handbook has a tracks section which is a good guideline for related classes. If you complete a track or multiple tracks (you can do 3+ if you plan accordingly or have prior credits) then you get a certificate with your diploma when you graduate if I recall
+
+---
+

@@ -1,0 +1,105 @@
+Source: Rate My Professors
+University: University of Texas Rio Grande Valley
+Department: Computer Science
+URL: https://www.ratemyprofessors.com/
+==================================================
+
+Professor: Timothy Wylie
+Course: CSCI4325 (Automata Theory)
+Overall Rating: 4.3 / 5
+Difficulty: 3.7 / 5
+Would Take Again: 96%
+Number of Ratings: 27
+
+Reviews:
+"Wylie's lectures are great. He is obviously passionate about CS. Either he has amazing memory, maps faces with names with ease, or cares. He makes topics almost mystical." — Quality 4.0, Difficulty 4.0
+
+"Excellent class — the professor is very funny. Be sure to dedicate time to studying and take advantage of the many extra credit opportunities." — Quality 5.0, Difficulty 4.0
+
+"The material is difficult but Wylie explains it fairly well. He provides extra credit questions on the exams and an assignment. Quizzes almost every day. Kind of an ez course." — Quality 5.0, Difficulty 4.0
+
+"Quiz almost every class day. Exams are like the quiz questions. Material is hard so you need to read the book. You can use the book on the exam." — Quality 5.0, Difficulty 4.0
+
+"This class is legitimate one of my favorites. Wylie is super entertaining and down to earth, easily one of my favorite profs hands down." — Quality 5.0, Difficulty 5.0
+
+"This class is extremely disorganized, expectations are unclear, and lectures fail to explain key concepts. One of the most frustrating classes I've taken." — Quality 1.0, Difficulty 5.0
+
+"Engaging, entertaining lectures, always has you on your toes. Exams are hard but corrections help you get some credit back. Take this class if you're up to the challenge." — Quality 5.0, Difficulty 5.0
+
+"This was one of the hardest classes I've ever taken! I did have a ton of fun though. We had a few exams, no homework and about a quiz every class day. Wylie's the GOAT!" — Quality 5.0, Difficulty 5.0
+
+"You can see how passionate Dr. Wylie is about 4325. He's fair and will help out students as long as they're also trying to understand the topics." — Quality 5.0, Difficulty 4.0
+
+"Dr. Wylie's lecture style is laid-back. The homework, however, is not. Expect to read a lot and spend hours figuring out the homework." — Quality 5.0, Difficulty 3.0
+
+---
+
+Professor: Robert Schweller
+Course: CSCI3333 (Data Structures / Algorithms)
+Overall Rating: 4.4 / 5
+Difficulty: 4.2 / 5
+Would Take Again: 85%
+Number of Ratings: 55
+
+Reviews:
+"Algorithms with Schweller is the Dark Souls of UTRGV CS. It is the hardest undergrad CS class, but will teach you the most. Take him with 3 easy classes to focus on his class." — Quality 5.0, Difficulty 4.0
+
+"Amazing lecturer, very hard material. You will suffer but you will learn a lot. Definitely a weed out class. Only take him if you really want to learn." — Quality 5.0, Difficulty 5.0
+
+"This class is HARD, you have to lock in a lot for the hws and exams, but Schwelly is so goated, it's clear he cares about what he teaches." — Quality 5.0, Difficulty 5.0
+
+"Fabulous lectures, extremely challenging material. You will learn it, but don't take Cal II the same semester. Expect to spend a lot of time on the homework." — Quality 5.0, Difficulty 5.0
+
+"I struggled a lot in this class, but I am glad and grateful to have learned a lot from Dr. Schweller. Ask for help, even if you are scared of him." — Quality 5.0, Difficulty 5.0
+
+"Hardest thing I've ever done, but you WILL learn with him. Don't take this class with a heavy schedule." — Quality 5.0, Difficulty 5.0, Would Take Again: No
+
+"Whether or not you pass this class will determine if you have the chops to work in Computer Science." — Quality 5.0, Difficulty 5.0
+
+"At this point you start thinking if you want to keep studying comp sci. Expect challenge, maybe the hardest course you will take in your life." — Quality 4.0, Difficulty 5.0
+
+"Dr. Schweller is one of those sadistic profs who just likes to make his students squirm. He gave us one assignment where the only way to get an A was to write a program that ran faster than the one he wrote. And his final, the whole class flunked it." — Quality 1.5, Difficulty 5.0
+
+"Schweller is an awesome lecturer. However, when you get to the hard topics it is sink or swim, he isn't good in office hours and he doesn't care when students struggle." — Quality 2.0, Difficulty 5.0
+
+---
+
+Professor: Zhixiang Chen
+Course: CSCI3310 (Discrete Mathematics)
+Overall Rating: 3.9 / 5
+Difficulty: 3.0 / 5
+Would Take Again: 100%
+Number of Ratings: 26
+
+Reviews:
+"Take him! Discrete math is hard but doing the bare min in this class will earn you for sure a B." — Quality 5.0, Difficulty 2.0
+
+"Great Professor if you're able to take him do so. Common Chen W for sure." — Quality 5.0, Difficulty 2.0
+
+"He is a good professor, however, one must pay close attention or read the books if something is not clear. He gives multiple tries on his test and quizzes too." — Quality 5.0, Difficulty 4.0
+
+"Showing up to class is all you have to do really. Pay attention and do the work and you will get an A." — Quality 5.0, Difficulty 2.0
+
+"Absolute GOAT of a professor would take him again." — Quality 5.0, Difficulty 2.0
+
+---
+
+Professor: Askar Nurbekov
+Course: CSCI3334 / CSCI3326
+Overall Rating: 4.3 / 5
+Difficulty: 3.5 / 5
+Would Take Again: 84%
+Number of Ratings: 6
+
+Reviews:
+"Dr. Nurbekov teaches more than just the course you signed up for. He emphasizes making mistakes and learning from them. He uses Leetcode for practice. Cons: does not answer emails; few graded items." — Quality 4.0, Difficulty 4.0
+
+"I really recommend him, although I do recommend to always read/prepare for class because they are heavy subjects and could be fast paced." — Quality 5.0, Difficulty 3.0
+
+"Cool professor. He enjoys the topic of the lectures and could tell he has a passion for it. Very understanding and has no problem helping out students." — Quality 5.0, Difficulty 3.0
+
+"Unlike some professors, Dr. Nurbekov will prepare you for the real world. He emphasizes on getting coding interview questions which are extremely helpful." — Quality 5.0, Difficulty 3.0
+
+"For the most part you have to teach yourself for the course and there is very little teacher involvement." — Quality 2.0, Difficulty 5.0
+
+"Askar is patient and caring. He mainly focuses on preparing students for coding interviews and practical learning." — Quality 5.0, Difficulty 3.0

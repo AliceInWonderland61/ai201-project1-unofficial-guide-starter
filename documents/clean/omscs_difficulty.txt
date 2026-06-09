@@ -1,0 +1,302 @@
+Source: r/OMSCS
+University: Georgia Tech
+URL: https://www.reddit.com/r/OMSCS/comments/1hsbc76/all_courses_ranked_by_difficulty_2025_springfall/
+==================================================
+
+[POST] All Courses Ranked by Difficulty 2025: Spring/Fall
+This is a list which combines the last three years of grades and reviews data to sort all courses by average difficulty.  Only Fall and Spring semester information is considered.
+
+**TL;DR**: I pull information from several sources to sort courses by average "difficulty".  There are many different forms of difficulty from the material being difficult to understand, to the course assignments being difficult to get a good/passing grade on or to complete in a timely manner, to the course structure/staff making it difficult to inspire interest in the material.  The work represented here attempts to distill the average student experience in each course into one digestible list.  Unless you happen to be THE perfectly average student, there will be rankings here you disagree with.  If everyone took every course, everyone's difficulty list would look different.  The goal of this list is to be one of the best sortings possible across all students, and provide directional guidance for students planning their course sequences and pairings.  The table includes an overall ranking as well as some information about their ranking in each category.
+
+This is an average course-by-course ranking from 1 to 66.  The tiers only exist to make the list easier to read.  Separations for the tiers were selected based on where the largest gaps exist between two courses.  For example, the gap in difficulty between SAT and KBAI is larger than the gap between SAT and AI4R.  That said, SAT is closer in difficulty to KBAI than it is to AISA.
+
+While I try to maintain as much objectivity as possible, my subjective judgements include choosing to use 3 years as the cutoff for data consideration, how to weight recent semesters vs older semesters, and how much to weight inputs relative to eachother (ie. grades (A, B, C-F, W) vs reviews (ratings, workload, difficulty)), and how to handle special cases like SDCC (enforced prereq and pass/fail grading) and courses with few or no reviews.  I don't know where exactly a course will land in this ranking until the weights are finished sorting them and I don't make manual adjustments to course positions.  Check the methodology for more details.
+
+If you're familiar with my past lists, this list is similar with some small improvements mentioned in the methodology.  If you're unfamiliar but find this useful, feel free to check out the other lists below for summer and workload distributions.
+
+# Related Posts:
+
+[All Summer Courses Ranked by Difficulty](https://www.reddit.com/r/OMSCS/comments/1k5k7av/all_courses_ranked_by_difficulty_2025_summer/)
+
+[All Courses Workload Distributions Table](https://www.reddit.com/r/OMSCS/comments/1dd0snd/all_courses_workload_distributions_table/)
+
+# Methodology:
+
+Average grades by semester were recorded from Lite. OSCAR and [omscs.rocks](http://omscs.rocks) were used to get an idea of the number of students who went into those averages each semester to get weighted average rates of A’s, B’s, W’s, etc... for each course. That information was compared to review data from [OMSHub](https://www.omshub.org/) and [central](https://www.omscentral.com/) to get an overall estimate of course difficulty. Presumably if more students get A’s and B’s and report a course as having a high overall rating with lower difficulty and workload requirements, that course is relatively easier than a course with high rates of C’s and W’s. In rough terms, with ‘+’ indicating easier and ‘-’ indicating harder, the weight of factors from most to least important is as follows: % A’s (+), Workload (-), Difficulty Rating (-), % C-F's (-), % B’s (+), % W’s (-), Overall Rating (+).
+
+Recent data is generally weighed heavier since courses change over time.  For this list, only reviews from Spring 2022 forward are considered, except for courses with less than 15 reviews where older reviews were used to increase sample size.  For most courses, only grades from the most recent 5 long semesters are included.  A few courses have on-campus offerings one semester/year that cannot be separated from OMSCS grades in lite because they have the same professor as the OMSCS section.  For these courses (listed in notes), the 4 most recent long semesters with no on-campus offering were used.  In all cases, grades from the most recent semesters are weighed heavier than older semesters included.  These recency cutoffs were chosen to strike a balance between maintaining a significant number of samples and creating a list that accounts for any recent course changes.
+
+# All 66 courses ranked from easiest to hardest, in tiers:
+
+Rank, Grades Rank, Rating, Difficulty, and Workload are reported as relative rank with 1 oriented as "easiest" and 66 as "hardest".
+
+# Tier 1 (Free Credits)
+
+|Rank|Course Number|AKA|A%|A-B%|W%|Grades Rank|Rating|Difficulty|Workload|
+|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|1|[MGT 6311](https://omscs.gatech.edu/mgt-6311-digital-marketing)|DM|75.0%|93.4%|3.8%|5|22|1|1|
+|\+2|[CSE 6742](https://omscs.gatech.edu/cse-6742-modeling-simulation-and-military-gaming)|MSMG|88.4%|92.1%|6.8%|2|9|4|4|
+|3|[CS 8803 O15](https://omscs.gatech.edu/cs-8803-o15-introduction-computer-law)|Law|77.0%|90.6%|6.1%|11|3|6|3|
+|4|MGT 8813|FMX|83.9%|90.0%|8.2%|6|64|3|2|
+|5|[CS 6261](https://omscs.gatech.edu/cs-6261-security-incident-response)|SIR|83.7%|93.8%|5.6%|1|41|9|9|
+|6|[INTA 6450](https://omscs.gatech.edu/inta-6450-data-analytics-and-security)|DAS|80.9%|91.6%|6.3%|4|62|5|5|
+
+# Tier 2 (Easy)
+
+|Rank|Course Number|AKA|A%|A-B%|W%|Grades Rank|Rating|Difficulty|Workload|
+|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|7|[CS 6795](https://omscs.gatech.edu/cs-6795-introduction-cognitive-science)|ICS|82.3%|89.4%|8.7%|10|21|7|11|
+|8|[CS 7650](https://omscs.gatech.edu/cs-7650-natural-language-processing)|NLP|86.7%|93.1%|3.2%|3|17|12|14|
+|9|[CS 6603](https://omscs.gatech.edu/cs-6603-ai-ethics-and-society)|AIES|78.5%|87.7%|9.4%|16|61|2|8|
+|10|[CS 8803 O17](https://omscs.gatech.edu/cs-8803-o17-global-entrepreneurship)|GE|82.9%|89.5%|9.1%|8|44|17|6|
+|11|[CS 6457](https://omscs.gatech.edu/cs-6457-video-game-design)|VGD|83.8%|89.0%|9.6%|9|11|15|20|
+|\+12|[CS 6440](https://omscs.gatech.edu/cs-6440-intro-health-informatics)|IHI|83.5%|87.6%|11.0%|12|36|22|21|
+|13|[CS 6150](https://omscs.gatech.edu/cs-6150-computing-good)|C4G|78.5%|83.2%|14.1%|17|59|9|10|
+|\*14|[CS 6435](https://omscs.gatech.edu/cs-6435-digital-health-equity)|DHE|81.0%|90.5%|7.9%|7|N/A|N/A|N/A|
+|15|[CS 6300](https://omscs.gatech.edu/cs-6300-software-development-process)|SDP|67.6%|84.8%|9.3%|21|32|13|12|
+
+# Tier 3 (Entry Level)
+
+|Rank|Course Number|AKA|A%|A-B%|W%|Grades Rank|Rating|Difficulty|Workload|
+|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|16|[PUBP 6725](https://omscs.gatech.edu/pubp-6725-information-security-policies)|ISP|43.9%|86.7%|6.4%|23|65|8|7|
+|17|[CS 6262](https://omscs.gatech.edu/cs-6262-network-security)|NetSec|72.5%|83.2%|12.4%|19|40|23|15|
+|18|[CS 7470](https://omscs.gatech.edu/cs-7470-mobile-ubiquitous-computing)|MUC|82.0%|87.8%|9.9%|13|66|18|39|
+|19|PUBP 8823|GCY|75.5%|88.8%|8.6%|15|49|9|59|
+|20|[CSE 6242](https://omscs.gatech.edu/cse-6242-data-and-visual-analytics)|DVA|82.7%|87.4%|9.9%|14|60|39|40|
+|21|[ISYE 6644](https://omscs.gatech.edu/isye-6644-simulation-and-modeling-engineering-and-science)|Sim|51.5%|89.0%|9.8%|18|14|47|19|
+|\*22|[CS 8803 O24](https://omscs.gatech.edu/cs-8803-o24-intro-research)|i2R|72.3%|82.9%|12.8%|20|N/A|N/A|N/A|
+|23|[CS 6460](https://omscs.gatech.edu/cs-6460-educational-technology)|EdTech|63.0%|78.3%|18.0%|25|5|21|42|
+|24|[CS 6250](https://omscs.gatech.edu/cs-6250-computer-networks)|CN|61.6%|76.4%|15.7%|30|39|14|18|
+|25|[CS 7632](https://omscs.gatech.edu/cs-7632-game-ai)|Game AI|66.2%|78.0%|19.0%|22|16|31|25|
+
+# Tier 4 (Medium)
+
+|Rank|Course Number|AKA|A%|A-B%|W%|Grades Rank|Rating|Difficulty|Workload|
+|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|26|[ISYE 6501](https://omscs.gatech.edu/isye-6501-intro-analytics-modeling)|iAM|48.4%|79.9%|12.3%|32|26|25|16|
+|27|[CS 7639](https://omscs.gatech.edu/cs-7639-cyber-physical-design-and-analysis)|CPDA|55.7%|77.7%|19.5%|28|58|24|13|
+|28|[CS 6310](https://omscs.gatech.edu/cs-6310-software-architecture-and-design)|SAD|64.3%|77.4%|17.4%|26|63|16|23|
+|29|[CS 6035](https://omscs.gatech.edu/cs-6035-introduction-information-security)|IIS|60.3%|75.2%|15.6%|35|30|19|17|
+|30|[CS 6750](https://omscs.gatech.edu/cs-6750-human-computer-interaction)|HCI|56.7%|74.5%|20.5%|34|19|20|24|
+|31|[CS 7280](https://omscs.gatech.edu/cs-7280-network-science)|NetSci|60.1%|78.3%|17.3%|27|38|38|27|
+|32|[CS 8803 O21](https://omscs.gatech.edu/cs-8803-o21-gpu-hardware-and-software)|GPU|62.4%|75.9%|16.7%|31|15|36|29|
+|$33|[CS 6747](https://omscs.gatech.edu/cs-6747-advanced-malware-analysis)|AMRE|63.5%|71.7%|25.5%|33|7|40|31|
+|\+34|[CS 6675](https://omscs.gatech.edu/cs-6675-advanced-internet-systems-and-applications)|AISA|45.5%|74.2%|22.0%|37|37|27|38|
+|35|[CS 6264](https://omscs.gatech.edu/cs-6264-information-security-lab-system-and-network-defenses)|SND|69.7%|74.8%|24.8%|24|41|42|49|
+|36|[CS 7638](https://omscs.gatech.edu/cs-7638-robotics-ai-techniques)|AI4R|51.9%|69.0%|21.3%|39|8|32|36|
+|37|[CS 6340](https://omscs.gatech.edu/cs-6340-software-analysis)|SAT|43.4%|68.0%|24.3%|42|6|29|26|
+
+# Tier 5 (Hard, or at least harder than you think)
+
+|Rank|Course Number|AKA|A%|A-B%|W%|Grades Rank|Rating|Difficulty|Workload|
+|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|38|[CS 7637](https://omscs.gatech.edu/cs-7637-knowledge-based-artificial-intelligence-cognitive-systems)|KBAI|46.2%|69.5%|20.2%|41|45|26|43|
+|39|[CSE 6250](https://omscs.gatech.edu/cse-6250-big-data-health-informatics)|BD4H|56.1%|75.3%|17.4%|36|29|42|53|
+|40|[CS 6400](https://omscs.gatech.edu/cs-6400-database-systems-concepts-and-design)|DBS|30.4%|71.5%|14.5%|43|56|30|22|
+|\+41|[ISYE 6525](https://omscs.gatech.edu/isye-8803-topics-high-dimensional-data-analytics)|HDDA|62.7%|75.8%|20.2%|29|12|63|52|
+|42|[CS 7646](https://omscs.gatech.edu/cs-7646-machine-learning-trading)|ML4T|45.6%|63.1%|24.4%|48|31|28|37|
+|\+43|[CS 6238](https://omscs.gatech.edu/cs-6238-secure-computer-systems)|SCS|31.0%|73.5%|18.4%|40|51|48|47|
+|44|[CS 7400](https://omscs.gatech.edu/cs-7400-quantum-computing)|QC|42.2%|60.8%|32.8%|49|28|45|28|
+|45|[ISYE 6420](https://omscs.gatech.edu/isye-6420-bayesian-statistics)|Bayes|41.9%|63.9%|26.9%|45|52|46|32|
+|\*46|[CS 8803 O23](https://omscs.gatech.edu/cs-8803-o23-modern-internet-research-methods)|MIRM|60.0%|60.0%|10.0%|54|N/A|N/A|N/A|
+|\+47|[CS 7643](https://omscs.gatech.edu/cs-7643-deep-learning)|DL|48.9%|72.8%|20.3%|38|23|59|56|
+
+# Tier 6 (Take these alone)
+
+|Rank|Course Number|AKA|A%|A-B%|W%|Grades Rank|Rating|Difficulty|Workload|
+|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|48|[ISYE 6402](https://omscs.gatech.edu/isye-6402-time-series-analysis)|TSA|33.6%|67.0%|22.9%|44|57|52|46|
+|49|[CS 6290](https://omscs.gatech.edu/cs-6290-high-performance-computer-architecture)|HPCA|35.3%|58.7%|28.4%|55|13|44|45|
+|50|[CS 6515](https://omscs.gatech.edu/cs-6515-intro-graduate-algorithms)|GA|29.0%|69.7%|14.4%|47|48|51|48|
+|51|[CS 6200](https://omscs.gatech.edu/cs-6200-introduction-operating-systems)|GIOS|41.4%|57.6%|37.3%|52|10|50|51|
+|52|[CS 6263](https://omscs.gatech.edu/cs-6263-intro-cyber-physical-systems-security)|CPSS|31.6%|52.3%|39.3%|61|54|37|44|
+|$53|[CS 6601](https://omscs.gatech.edu/cs-6601-artificial-intelligence)|AI|41.8%|63.6%|27.1%|46|20|55|57|
+|54|[ISYE 6669](https://omscs.gatech.edu/isye-6669-deterministic-optimization)|DO|24.2%|64.0%|14.3%|57|47|55|29|
+|$55|[CS 6260](https://omscs.gatech.edu/cs-6260-applied-cryptography)|AC|25.5%|67.5%|20.9%|50|55|54|54|
+|56|[CS 6210](https://omscs.gatech.edu/cs-6210-advanced-operating-systems)|AOS|34.9%|54.2%|35.5%|58|27|57|50|
+|$57|[CS 6265](https://omscs.gatech.edu/cs-6265-information-security-lab)|BE|40.6%|56.3%|32.1%|56|1|53|63|
+|58|[CS 6291](https://omscs.gatech.edu/cs-6291-embedded-systems-optimization)|ESO|31.3%|43.3%|44.5%|65|50|41|41|
+|59|[CS 7642](https://omscs.gatech.edu/cs-7642-reinforcement-learning)|RL|38.5%|58.5%|32.2%|53|18|62|60|
+|60|[CS 7641](https://omscs.gatech.edu/cs-7641-machine-learning)|ML|40.7%|58.3%|36.1%|51|53|58|61|
+
+# Tier 7 (Tell your Loved Ones goodbye)
+
+|Rank|Course Number|AKA|A%|A-B%|W%|Grades Rank|Rating|Difficulty|Workload|
+|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|61|[CSE 6220](https://omscs.gatech.edu/cse-6220-intro-high-performance-computing)|IHPC|35.7%|51.8%|37.1%|62|25|60|55|
+|\*\*62|[CS 6211](https://omscs.gatech.edu/cs-6211-system-design-cloud-computing)|SDCC|34.9%|54.2%|35.5%|58|2|65|64|
+|63|[CS 6476](https://omscs.gatech.edu/cs-6476-computer-vision)|CV|36.5%|50.8%|33.9%|63|41|61|62|
+|64|[CS 7210](https://omscs.gatech.edu/cs-7210-distributed-computing)|DC|32.6%|56.%|30.9%|60|24|66|65|
+|65|[CS 6475](https://omscs.gatech.edu/cs-6475-computational-photography)|CP|23.5%|43.9%|39.9%|66|46|49|58|
+|66|[CS 8803 O08](https://omscs.gatech.edu/cs-8803-o08-compilers-theory-and-practice)|Compiler|30.9%|47.6%|37.2%|64|4|64|66|
+
+# Notes:
+
+\* – DHE, i2R, and MIRM currently have no reviews.  For overall ranking, a median of (3.467, 2.975, 13.606) was used as a placeholder for (rating, difficulty, workload).  The N/A’s occupy the middle of the ranking at 33, 34, and 35, so 1 is still the easiest and 66 is still the hardest for the other courses.  MIRM in particular has only had 10 students take it at the time of this list's creation, so take this placement with a grain of salt.
+
+\*\* - SDCC has the distinction of being the only course on the list with both an enforced pre-requisite (A in AOS) and a pass/fail grading structure.  The usual approach doesn't rank this course accurately, so for ranking purposes I decided to give it the same grades profile as its pre-requisite, AOS.  The students who have taken it generally rate it as harder than AOS, so it lands in Tier 7.
+
+\+ - Course has a Spring on-campus offering with the same professor and thus only Fall grades are considered
+
+$ - Course has a Fall on-campus offering with the same professor and thus only Spring grades are considered
+
+---
+
+Classes with group projects should be in a special category.
+
+---
+
+Oh great most of the courses I’m interested in are tier 6 and 7
+
+I have a note about CS6400. The material in this class was not difficult. It was made difficult for three reasons:
+
+1. Most of the grade is based on project work, so a lot depends on lucking out with good teammates.
+
+2. It really feels like there are a lot of bad TA’s for this class (definitely some good too, but plenty of bad). We would get feedback on our projects and be docked 15% for a few small errors. The grading scheme did not seem to be lined up properly with what one might consider a demonstration of mastery of the material. Additionally, there were plenty of poorly written test questions that were basically reliant on you correctly guessing what they were getting at. This had been pointed out multiple times and the response from the TA team was basically “sucks.” I’d give the TA’s a 2/5 for this course. I liked the lead instructor and the materials, but it felt so much like the TA’s were going out of their way to inappropriately deflate grades. 
+
+3. You’re graded on things that have nothing to do with this course. We did terribly on the final project because our UI wasn’t finished (sure, that’s on us), but this course has nothing to do with building UI’s. We had to spend a ton of time learning how to do that. 
+
+For context, I’ve worked as a data engineer/backend engineer for 6 years and was basically the SQL expert in every team I’ve been on, and I got a B, even having basically known all the material beforehand (if you’re wondering why I took the course, that’s a different story…).
+
+Fk that class. 
+
+Edit: forgot to point out-they’d ask you to incorporate changes from previous phases into the next phase of your project, but wouldn’t release comments until the week before the next phase was due.
+
+---
+
+I graduated this fall and was with the program for 4 years, I must say the newer classes like NLP were a delight, but what surprised me is the amount of fun I had taking CS7641 this fall. Don't get me wrong, it is still a lot of work, but there has been some very positive improvements made in that course to improve the learning experience.
+
+---
+
+Honestly, 59 hours average workload for entry level? I also read a review that assessed GA at 80 hours per week: that is 2 (two) full-time jobs for one course. Ppl know how many hours there are in a week, right?
+
+Edit: oh I see now that workload is also ranked. Then it is still strange that 7 is together with 59.
+
+---
+
+I think IHPC should be tier 6. I took it during the Summer and had no background in algorithms. I am also an average student. I found the workload comparable to GIOS or AI
+
+---
+
+Not sure about DL and ML4T in the same tier. ML4T is a entry/medium level class based on my experience
+
+---
+
+Starting my first semester with GIOS, planning to spend at least 20 hours per week. Wish me luck.
+
+---
+
+>That information was compared to review data from [OMSHub](https://www.omshub.org/)
+
+Hopefully it wasn't too tedious to pull the data...
+
+It's been on our [backlog](https://github.com/omshub/website/issues/17) for a while to make the data easier to pull/aggregate (i.e., via exported JSON or similar), but currently the other core dev and I are pretty slammed between work and school, unfortunately. But we're also both at the tail end of OMSCS, finally, so hopefully we can improve that part sooner than later...
+
+Ultimately, Spring '25 GA will be the arbiter in declaring freedom vs. non-freedom in my own case (tenth/final course for me) 😬
+
+---
+
+Thanks for putting this together, OP!  It's nice to all of these courses listed together for reference.
+
+Just my two cents for the folks reading the comments: ISYE 6501 was waaaaaaay easier than DVA. No way DVA should be considered easier. 6501 was a breeze.
+
+---
+
+Just wanna say thanks this is a great resource!!
+
+---
+
+I am so glad to see CV at the end. This is my 1st semester and I am taking it. 
+
+One of the biggest reason I chose OMSCS was to get challenged & come out upgraded.  CV is a step towards that.
+
+---
+
+All of this is subject to massive selection bias. Someone should do a “same rater” ranking based approach.
+
+---
+
+Thanks for putting this together. If you get a high B in AOS, it is enough for SDCC. I got the invitation for 85% overall score.
+
+---
+
+Here’s a question. I know these ratings are somewhat subjective and depend on the person taking them and their life yada yada yada. 
+
+But, what would you all put as the recommended highest tier to do during a summer?
+
+What would you put as the highest two tiers to do as two classes at once? 
+
+Obviously there will be variation but there must be hard and soft limits on what tier someone should do in a summer and what 2 tiers someone should or shouldn’t double up on in a term. 
+
+Like 2 tier 6’s in one term while working full time would maybe not be advised! So what’s the right advice? 
+
+Summer?
+2 at the same time?
+
+---
+
+Should only consider GA on and after Summer 2024 since they remove the optional finals AND introduce OSI-induced coding assignments.
+
+Just look at the sharp decline of %A.
+
+Any class whose semesters have below 20-25% needs to be automatically looked at for being masochistic.
+
+---
+
+OP this is amazing, thank you! 
+
+Slight request: would it be possible to add the full name of the courses next to the AKA column? That way we won’t have to look up omscs.rocks for reference. Thank you!
+
+---
+
+Thanks OP this is perfect! Love to see all the data in one place so I can plan out my courses! Never going to touch Tier 7.
+
+---
+
+CS7210 (DC) wasn't that bad when I took it. What made it challenging was the dslabs framework and its internal structures. A supplementary short lecture on the internals of the framework could be nice.
+
+---
+
+I realize there were changes to QC from the time when I took it (when it was still an 8803 course) to its final form but I really didn't find it to be that difficult. I personally would have ranked DL higher in difficulty than QC (in fact I kinda felt QC and NetSci were about the same difficulty :) ). But that is my perception :D
+
+---
+
+I think it might be worth marking which courses are available to OCY students. The policy track students in particular tend to struggle with more technical assignments, and so I think they review courses as "harder" than the average OMSCS student would.
+
+---
+
+Why is CS 6340 SAT considered as a medium class. It is definitely a difficult course because the students taking this course tend to be fluent in C++ and can read poor LLVM documentation well to do the assignments very well.
+
+---
+
+AI and ML courses sound similar to me. Can anyone who took both ML and AI compare the two? Is one more conceptual vs hands-on? And which would you recommend for future/career usefulness? And which course was generally more challenging or required more work?
+
+---
+
+Do you have tier for ISYE 6525?
+
+---
+
+I would say 6035 is easier than 6262
+
+---
+
+Deciding between DVA and BD4H at the moment, and I feel like I generally see people on Reddit say BD4H > DVA although I'm seeing a much higher A rate for DVA. Could the A rate for BD4H be skewed by the grades before it was remodeled?
+
+---
+
+It really depends on your background. I paired CS 6210 AOS with CSE 6220 IHPC, while working for 12+ hours every weekday and preparing for my CFA exam at the same time, and still got two high As without much commitment. However, I dropped CS 7642 RL (in Fall 2024 when the course was just restructured) right after the first project, which took me more time than all projects in AOS + IHPC.
+
+---
+
+Taking IHPC this semester and I need an A to pull my GPA back to graduate . How feasible is it? given i am only taking 1 mod
+
+---
+
+Compilers was very easy. I'm surprised to see it so low on the list. It was my first course and an easy A. Honestly if Compilers is that hard for you, you shouldn't be doing a Master's in CS. It's one of the few true Master's-level courses in CS - e.g. GIOS is a BS-level course.
+
+Video Game Design was awful. I had one team member who went apeshit over literally nothing and contributed dogshit code I spent my weekends fixing, one member who contributed 1-2 hours of work, and one who did virtually nothing. My advice is to avoid it in the summer, and avoid any courses with group projects, or at least where group projects take up a large portion of your grade.
+
+---
+

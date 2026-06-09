@@ -1,0 +1,73 @@
+Source: r/WGU_CompSci
+University: WGU
+URL: https://www.reddit.com/r/WGU_CompSci/comments/13fovi2/class_difficulty_ranking/
+==================================================
+
+[POST] Class Difficulty Ranking
+Hello, everyone! I just finished my last class yesterday and wanted to give a ranking of classes from hardest to easiest since I haven't ever seen one. (Edit: This is for the Computer Science Program). I got most of my generals transferred from another school, so those classes are not on the list. This is my opinion, and others' opinions will vary. I also don't remember every detail of every class, so the order isn't perfect.
+
+Hardest to easiest:
+
+1. Business of IT Applications (The test was horrible. Edit: This may be the hardest test, but not the hardest class. This class caused me so much stress. That's why it's number 1 for me.)
+2. Software 1 (A big project with a lot of thinking involved)
+3. Software 2 (A big project with a lot of thinking involved)
+4. Operating Systems for Programmers (There was a ton of vocab and I don't do well with vocab)
+5. Discrete Math 2 (Wasn't as bad as people said. I enjoyed it)
+6. Calculus 1 (This wasn't that bad either. I also enjoyed it)
+7. Data Structures and Algorithms 2 (It was confusing to start, but not too bad once you get the hang of it)
+8. Scripting and Programming Applications (This was also confusing to start, but not too bad once I got my hands on a certain YouTube video. Edit: I just checked and the video was taken down. I THINK it was created by a WGU instructor and they changed their mind about the video because it made the class too easy. This is just a guess. This may be the hardest class now.)
+9. Business of IT Project Management (The test was a beast, but not horrible. Edit: Changed from 14th to 9th)
+10. Intro to AI (This just had a lot of papers to write and was kind of annoying)
+11. Web Development Foundations (A lot of students struggle with this class. It wasn't too bad for me though)
+12. Discrete Math 1 (It was hard for me because I didn't read the book. After I read the book, it was pretty easy)
+13. Computer Architecture (It took a while, but isn't too bad if you just follow along with the webinars)
+14. Data Structures and Algorithms 1
+15. Capstone (It took me a day)
+16. Advanced-Data Management
+17. Advanced-Data Management Applications
+18. Advanced-Data Management Foundations
+19. Software Engineering
+20. Fundamentals of Information Security
+21. Scripting and Programming Foundations
+22. Network and Security
+23. Intro to IT
+24. Software Quality Assurance
+
+---
+
+Did you use the software 2 project for the capstone?
+
+---
+
+Man wym project management wasn’t bad , that was the worst test I have ever taken😥
+
+---
+
+I am at the point I prefer certifications to WGU exams. The most difficult for me has never had anything to do with the content, just the way the class was put together and the way the test was written. Even the hardest certifications you will have a test you can understand .. well except maybe ITIL.
+
+---
+
+The only exams I failed once are DM2 and ITIL.
+
+---
+
+Certain video for c867?😔
+
+---
+
+This is surprising and not super common. Your hardest class is possibly the one with the lowest passing score in the entire degree.
+
+---
+
+Hello, how long did this all take you to complete and did you transfer any credits in? I'm planning to enroll this next month on 06/01 but need to know if I should use sophia or SDC to expedite the program before I officially enroll. Cost is not an issue as my tuition is covered through Amazon Career Choice so my priority is to save time. These third party websites are roughly $350 per month for 5 courses which is a bit steep but I'm willing to pay this if it truly makes a significant difference on the length of the program. If not then I'm willing to sacrifice a few months of time to save 1k. I would like to know the best course of action for starting out with no credits.
+
+---
+
+Hey op, what career path have you taken since finishing the cs degree?
+
+---
+
+How long did calc 1 take?
+
+---
+

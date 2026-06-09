@@ -62,6 +62,39 @@ Just like there's large comments, there's super short ones, so for those if ther
 **Final chunk count:**
 We had 179 chunks across 10 documents 
 
+**Sample Chunks** 
+Chunk 1 — Source: r/uofu (University of Utah)
+If you have no experience with C or C++, do not take 3505 and 4400 at the same time.
+Though if you're already pretty comfortable with one or both of those languages, it might
+even be a good idea to take them the same semester. 3500 and 3810 might be the easiest
+core classes to double up with another required course. Operating Systems isn't bad if
+you take it right after 4400.
+
+
+Chunk 2 — Source: r/csMajors (Various)
+Columbia's toughest classes are COMS 4232 Advanced Algorithms, COMS 4252 Computational
+Learning Theory, and COMS 4118 Operating Systems. COMS 3157 Advanced Programming
+(C, Linux, Git, Sockets, C++) was definitely one of the toughest required CS courses.
+
+Chunk 3 — Source: r/RPI (RPI)
+The difficulty of these classes is 100% prof dependent aside from DS and CS1 imo.
+I havent met one person who didnt think DS was the hardest cs class, and CS1 the easiest.
+All other classes could be ranked in any order between those two. It wholly depends on
+what prof you get, and how much you enjoy the material.
+
+
+Chunk 4 — Source: Rate My Professors (UTRGV)
+Professor: Robert Schweller — Course: CSCI3333 (Data Structures / Algorithms)
+Overall Rating: 4.4 / 5 — Difficulty: 4.2 / 5
+"Algorithms with Schweller is the Dark Souls of UTRGV CS. It is the hardest undergrad
+CS class, but will teach you the most. Take him with 3 easy classes to focus on his class."
+
+
+Chunk 5 — Source: r/csMajors (Various)
+I find you can divide CS students pretty neatly into algorithms and operating systems
+people. Algorithms people who love solving leetcode problems all day seem to struggle
+with OS, meanwhile OS people who like messing around with the linux kernel seem to
+struggle with algorithms.
 ---
 
 ## Embedding Model
@@ -79,6 +112,43 @@ I used sentence-transformers/all-MiniLM-L6-v2. I chose this one because it runs 
 So if this were deployed for real useres I might contemplate on choosing another model becuase this model can only handle 256 tokens at a time, so longer reviews could potentially get cut off. This model was not trained on Computer Science course content specifically so it might not catch the difference between student expressions about courses. However, running it locally is great for personal projects so it has pretty good merits. 
 ---
 
+
+## Retrieval Test Results
+Query 1: "What CS courses do students at multiple universities agree are difficult?"
+Top returned chunks:
+
+-> r/csMajors (distance: 0.62): "Analysis of Algorithms or Data Structures objectively would be the hardest classes amongst CS. I've seen people fail the class numerous times even after a full year of programming classes."
+-> r/csMajors (distance: 0.63): "Columbia's toughest classes are COMS 4232 Advanced Algorithms, COMS 4252 Computational Learning Theory, and COMS 4118 Operating Systems."
+-> r/RPI (distance: 0.71): "I havent met one person who didnt think DS was the hardest cs class, and CS1 the easiest."
+-> r/csMajors (distance: 0.72): "umd cs has the same course as cmu, it's considered one of the hardest courses at the school with an avg gpa of 2.1. algorithms at umd has a ~50% fail rate."
+-> r/RPI (distance: 0.74): "It really depends on the type of CS person you are. I loved data structures, opsys, and coco but thought FOCS and algo were much more difficult."
+
+Why these chunks are relevant: 
+The query is asking which courses show up as hard across multiple schools. Every chunk returned names specific courses and expresses difficulty and Data Structures and Algorithms appear across r/csMajors, r/RPI, Columbia, and UMD. That cross-school pattern is exactly what the question is looking for, so we can see that retrieval did its job here.
+
+
+
+Query 2: "What advice do students give about which CS courses not to take at the same time?"
+Top returned chunks:
+
+-> r/csMajors (distance: 0.65): "Wait wait....so many people saying comp architecture and OS....I'm taking both next semester along with two other CS courses....can y'all give me any tips or advice on how to avoid falling behind or failing?"
+-> r/uofu (distance: 0.68): "Here's the risk of trying to do everything as fast as possible especially in computer science... you may fail. You have to have Cs in all your major courses as a minimum."
+-> r/RPI (distance: 0.74): General difficulty rankings thread.
+-> r/csMajors (distance: 0.78): "I'm a software engineering student so I didn't have to take as many theoretical classes. But operating systems, calc 2 and distributed systems probably gave me the most difficulty."
+-> r/uofu (distance: 0.83): "4150 and 4400 were brutal, don't take those at the same time."
+
+Why these chunks are relevant: 
+The first result is a student directly panicking about taking Computer Architecture and OS at the same time which really helps give context for the question. The r/uofu chunks give both a general overloading warning and the specific 4150+4400 pairing to avoid. The retrieval found the right content, it just ranked the most specific advice (4150+4400) further down the list.
+
+Query 3: "What factors besides course content make CS courses feel harder or easier?"
+Top returned chunks:
+
+-> r/RPI (distance: 0.69): "The difficulty of these classes is 100% prof dependent aside from DS and CS1."
+-> r/csMajors (distance: 0.69): "Being disinterested in something can increase its difficulty many times beyond what others would find."
+-> r/csMajors (distance: 0.69): "My hardest course was Java because I was panicked. Getting into cs is hard."
+-> r/RPI (distance: 0.75): "It really depends on the type of CS person you are."
+-> r/csMajors (distance: 0.82): "I think that having a disinterest in something can increase its difficulty."
+
 ## Grounded Generation
 
 <!-- Explain how your system enforces grounding — how does it prevent the LLM from answering
@@ -94,6 +164,50 @@ I gave the model a set of rules it has to follow every time someone asks a quest
 **How source attribution is surfaced in the response:**
 There are two ways sources show up. First, the model is instructed to cite sources inline in its answer, for example "According to r/uofu..." or "A student on r/csMajors said...". Second, the pipeline collects the source names from all the retrieved chunks and displays them separately in a Sources box on the right side of the UI. That way even if the model forgets to mention a source in the answer, it still shows up in the Sources box.
 ---
+## Example Responses
+Example 1 — Works well, grounded with citations
+Query: "What CS courses do students at multiple different universities all agree are difficult?"
+Response:
+
+According to r/csMajors and r/RPI, Data Structures is consistently considered a difficult CS course. A student on r/csMajors said it's "objectively one of the hardest classes amongst CS" and a student on r/RPI stated that they "haven't met one person who didn't think DS was the hardest cs class". Additionally, Algorithms is also mentioned as a difficult course by multiple sources, including r/csMajors and r/RPI.
+
+Sources: r/csMajors (Various), r/RPI (RPI)
+
+
+Example 2 — Grounded with multiple sources
+Query: "What factors besides course content make CS courses feel harder or easier?"
+Response:
+
+According to r/RPI, the difficulty of CS classes is 100% professor dependent, aside from Data Structures and CS1. A student on r/RPI also stated that how much you enjoy the course material affects the perceived difficulty. Additionally, according to r/csMajors, being disinterested in a subject can increase its difficulty, and personal interest in a topic such as code versus hardware can also impact the perceived hardness of a course.
+
+Sources: r/RPI (RPI), r/csMajors (Various)
+
+
+Query: "What is the best restaurant in Paris?"
+Response:
+
+I don't have enough information in my sources to answer that question.
+
+Sources: r/uofu (University of Utah), r/csMajors (Various), r/OMSCS (Georgia Tech)
+
+## Query Interface
+
+Input: A text box labeled "Your question" with a placeholder that says "e.g. What are the hardest CS courses across universities?" You type your question and either click the "Ask ✦" button or press Enter to submit.
+Output: Two boxes side by side:
+
+Answer (bigger box on the left): The response from the system, grounded in retrieved student reviews with inline citations like "According to r/uofu..." or "A student on r/csMajors said..."
+Sources (smaller box on the right): A bullet list of every subreddit or platform that was retrieved to answer your question
+
+Run with python app.py and open http://localhost:7860
+Sample interaction transcript:
+
+User: What advice do students give about which CS courses not to take at the same time?
+Answer: A student on r/csMajors said to be careful when taking Comp Architecture and OS at the same time, as many people find them challenging. According to r/uofu, taking too many difficult courses simultaneously can lead to being overloaded and not doing well, and it's advised to talk with an advisor to plan coursework.
+Sources:
+• r/csMajors (Various)
+• r/RPI (RPI)
+• r/uofu (University of Utah)
+
 
 ## Evaluation Report
 

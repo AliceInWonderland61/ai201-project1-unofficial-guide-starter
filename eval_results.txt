@@ -1,0 +1,25 @@
+=== Q1 ===
+Q: What CS courses do students at multiple different universities all agree are difficult?
+A: According to r/csMajors and r/RPI, Data Structures is consistently considered a difficult CS course. A student on r/csMajors also mentions that Analysis of Algorithms is objectively one of the hardest classes, and this is echoed by a student on r/RPI who ranks Algorithms as the second most difficult class.
+Sources: ['r/RPI (RPI)', 'r/csMajors (Various)']
+
+=== Q2 ===
+Q: What advice do students give about which CS courses NOT to take at the same time?
+A: According to r/csMajors, a student advises against taking Computer Architecture and OS at the same time, as many people find them challenging. A student on r/uofu also warns about overloading with difficult courses, suggesting that taking too many major courses at once can lead to poor performance and the need to retake classes.
+Sources: ['r/RPI (RPI)', 'r/uofu (University of Utah)', 'r/csMajors (Various)']
+
+=== Q3 ===
+Q: What factors besides course content make CS courses feel harder or easier?
+A: According to r/RPI, the difficulty of CS classes is 100% professor dependent, aside from Data Structures and CS1. A student on r/RPI also stated that how much you enjoy the course material affects the perceived difficulty. Additionally, according to r/csMajors, being disinterested in a subject can increase its difficulty. Furthermore, a student on r/csMajors mentioned that their personal interest, such as liking code but not hardware, also impacts the perceived hardness of a course.
+Sources: ['r/RPI (RPI)', 'r/csMajors (Various)']
+
+=== Q4 ===
+Q: How do students describe the workload of hard CS courses in terms of time commitment?
+A: According to r/RPI, the time commitment for CS courses is ranked as follows: DS, FOCS, Algo, PSoft, CompOrg, OpSys, and CS1, with DS requiring the most time. A student on r/uofu also mentioned a significant amount of homework and time spent, especially for theory/application heavy classes. Additionally, a student on r/csMajors noted that Data Structures is a particularly challenging class, with some people failing it numerous times even after a full year of programming classes.
+Sources: ['r/csMajors (Various)', 'r/RPI (RPI)', 'r/OMSCS (Georgia Tech)', 'r/uofu (University of Utah)']
+
+=== Q5 ===
+Q: What do students say about how their background or prior experience affects how hard they find CS courses?
+A: According to r/csMajors, a student mentions that having a full year of programming classes before taking Data Structures still didn't guarantee an easy time in the class, and some people failed it numerous times. Another student on r/csMajors notes that their prior experience with programming didn't help with Java, which they found hard due to panic. A student on r/csMajors also mentions that having passed an OS course didn't prepare them for other CS material, implying that background knowledge may not always translate to ease in other courses.
+Sources: ['r/csMajors (Various)']
+
